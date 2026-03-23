@@ -59,28 +59,28 @@ def replace_placeholder_with_image_grid(doc, placeholder, images, width=3):
 STATIC_SCORES = {
     "Monasterio de Nuestra Senhora del Risco": 54,
     "Santuario de Nuestra Senhora de Sonsoles": 76,
-    "Parque de El Soto": 78,
+    "Parque de El Soto Avila": 78,
     "Dolmen del Prado de Las Cruces": 67,
-    "Ermita de San Segundo": 78,
-    "Iglesia de San Pedro Apostol": 63,
-    "Iglesia de Nuestra Senhora del Rosario": 63,
+    "Ermita de San Segundo Avila": 78,
+    "Iglesia de San Pedro Apostol Bernuy": 63,
+    "Iglesia de Nuestra Sra del Rosario Vizolozano": 63,
     "Castro de las Cogotas": 80,
     "Arco de conejeros": 61,
-    "Las Tres Cruces": 65,
-    "Iglesia de la Invencion de la Santa Cruz": 71,
+    "Las Tres Cruces Cardenhosa": 65,
+    "Iglesia de la Invencion de la Santa Cruz Cardenhosa": 71,
     "Castro de la Mesa de Miranda": 71,
-    "Los Henrenes": 68,
-    "Ermita de San Miguel": 67,
+    "Los Henrenes Cillan": 68,
+    "Ermita San Miguel La Hija de Dios": 67,
     "Necropolis de Oco": 63,
     "Castillo de Manqueospese": 58,
     "Las Piedras de Garoza": 64,
-    "Ermita de Nuestra Senhora de las Fuente": 78,
+    "Ermita Nuestra Senhora de las Fuentes": 78,
     "Necropolis de la Coba": 64,
-    "Castro de Ulaca": 85,
-    "Castillo de Villaviciosa": 73,
-    "Iglesia de la Transfiguracion del Senhor": 74,
-    "Verraco Villanueva Campillo": 73,
-    "Iglesia de Nuestra Senhora de la Natividad": 70
+    "Castro-Ulaca": 85,
+    "Castillo de Villaviciosa Solosancho": 73,
+    "Iglesia de la Transfiguracion del Senhor Vadillo": 74,
+    "Verraco Campillo": 73,
+    "Iglesia de La Natividad De Nuestra Senhora Campillo": 70
 }
 
 
@@ -209,13 +209,16 @@ class MainWindow(QtWidgets.QDialog):
             if key.lower() == place_name:
                 static_score = value
                 break
+        
+       
 
         if static_score:
+            static_score = static_score / 20  
             final_score = (final_score_user + static_score) / 2
+          
         else:
             final_score = final_score_user
-
-        self.ui.FinalScore.setText(f"Final score: {round(final_score/10,2)}")
+        self.ui.FinalScore.setText(f"Final score: {round(final_score,2)}")
         self.ui.progressBar.setValue(100)
 
         output_folder = self.worker.output_path

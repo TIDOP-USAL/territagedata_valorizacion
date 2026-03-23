@@ -1,4 +1,4 @@
 # config.py
 
 UPDATE_NEW_REVIEWS = False
-API_KEY = ""
+API_KEY = "ENTER_YOUR_API_KEY_HERE"

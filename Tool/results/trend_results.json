@@ -1,0 +1,170 @@
+[
+    {
+        "nombre": "reviews-ARCO_DE_CONEJEROS.json",
+        "ratings": 29,
+        "ratings_valorados": 10,
+        "raw_rating_slope": -0.048484848484848485,
+        "means_rating_slope": -0.012998449434367877
+    },
+    {
+        "nombre": "reviews-CASTILLO_DE_MANQUEOSPESE.json",
+        "ratings": 28,
+        "ratings_valorados": 10,
+        "raw_rating_slope": 0.0787878787878788,
+        "means_rating_slope": -0.010768393864365016
+    },
+    {
+        "nombre": "reviews-CASTILLO_DE_VILLAVICIOSA_SOLOSANCHO.json",
+        "ratings": 14,
+        "ratings_valorados": 10,
+        "raw_rating_slope": -0.05454545454545455,
+        "means_rating_slope": 0.051373357282448205
+    },
+    {
+        "nombre": "reviews-CASTRO-ULACA.json",
+        "ratings": 440,
+        "ratings_valorados": 10,
+        "raw_rating_slope": 0.018181818181818184,
+        "means_rating_slope": -0.0008494601326924439
+    },
+    {
+        "nombre": "reviews-CASTRO_DE_LAS_COGOTAS.json",
+        "ratings": 287,
+        "ratings_valorados": 10,
+        "raw_rating_slope": -0.05454545454545455,
+        "means_rating_slope": -0.0006478385151235373
+    },
+    {
+        "nombre": "reviews-CASTRO_DE_LA_MESA_DE_MIRANDA.json",
+        "ratings": 161,
+        "ratings_valorados": 10,
+        "raw_rating_slope": -0.1696969696969697,
+        "means_rating_slope": -0.0015451839816534333
+    },
+    {
+        "nombre": "reviews-DOLMEN_DEL_PRADO_DE_LAS_CRUCES.json",
+        "ratings": 62,
+        "ratings_valorados": 10,
+        "raw_rating_slope": 0.006060606060606061,
+        "means_rating_slope": 0.0002029641275906139
+    },
+    {
+        "nombre": "reviews-ERMITA_DE_SAN_SEGUNDO_AVILA.json",
+        "ratings": 26,
+        "ratings_valorados": 10,
+        "raw_rating_slope": -0.17575757575757578,
+        "means_rating_slope": -0.03365910468025036
+    },
+    {
+        "nombre": "reviews-ERMITA_NUESTRA_SENHORA_DE_LAS_FUENTES.json",
+        "ratings": 69,
+        "ratings_valorados": 10,
+        "raw_rating_slope": 0.030303030303030304,
+        "means_rating_slope": 0.0027373920719893866
+    },
+    {
+        "nombre": "reviews-ERMITA_SAN_MIGUEL_LA_HIJA_DE_DIOS.json",
+        "ratings": 9,
+        "ratings_valorados": 9,
+        "raw_rating_slope": 0.06666666666666667,
+        "means_rating_slope": 0.002050264550264543
+    },
+    {
+        "nombre": "reviews-IGLESIA_DE_LA_INVENCION_DE_LA_SANTA_CRUZ_CARDENHOSA.json",
+        "ratings": 6,
+        "ratings_valorados": 6,
+        "raw_rating_slope": 0.05714285714285714,
+        "means_rating_slope": -0.043809523809523805
+    },
+    {
+        "nombre": "reviews-IGLESIA_DE_LA_NATIVIDAD_DE_NUESTRA_SENHORA_CAMPILLO.json",
+        "ratings": 7,
+        "ratings_valorados": 7,
+        "raw_rating_slope": -0.03571428571428571,
+        "means_rating_slope": -0.03435374149659871
+    },
+    {
+        "nombre": "reviews-IGLESIA_DE_LA_TRANSFIGURACION_DEL_SENHOR_VADILLO.json",
+        "ratings": 6,
+        "ratings_valorados": 6,
+        "raw_rating_slope": 0.02857142857142857,
+        "means_rating_slope": -0.03857142857142864
+    },
+    {
+        "nombre": "reviews-IGLESIA_DE_NUESTRA_SRA_DEL_ROSARIO_VIZOLOZANO.json",
+        "ratings": 9,
+        "ratings_valorados": 9,
+        "raw_rating_slope": -0.18333333333333332,
+        "means_rating_slope": -0.07711640211640208
+    },
+    {
+        "nombre": "reviews-IGLESIA_DE_SAN_PEDRO_APOSTOL_BERNUY.json",
+        "ratings": 10,
+        "ratings_valorados": 10,
+        "raw_rating_slope": 0.024242424242424232,
+        "means_rating_slope": 0.11792688792688795
+    },
+    {
+        "nombre": "reviews-LAS_PIEDRAS_DE_GAROZA.json",
+        "ratings": 117,
+        "ratings_valorados": 10,
+        "raw_rating_slope": -0.2787878787878788,
+        "means_rating_slope": -0.024796030054736667
+    },
+    {
+        "nombre": "reviews-LAS_TRES_CRUCES_CARDENHOSA.json",
+        "ratings": 22,
+        "ratings_valorados": 10,
+        "raw_rating_slope": 0.1090909090909091,
+        "means_rating_slope": 0.02401594025221947
+    },
+    {
+        "nombre": "reviews-LOS_HENRENES_CILLAN.json",
+        "ratings": 11,
+        "ratings_valorados": 10,
+        "raw_rating_slope": -0.11515151515151516,
+        "means_rating_slope": 0.028348856530674715
+    },
+    {
+        "nombre": "reviews-MONASTERIO_DE_NUESTRA_SENHORA_DEL_RISCO.json",
+        "ratings": 78,
+        "ratings_valorados": 10,
+        "raw_rating_slope": 0.024242424242424242,
+        "means_rating_slope": 0.003919360327197945
+    },
+    {
+        "nombre": "reviews-NECROPOLIS_DE_LA_COBA.json",
+        "ratings": 41,
+        "ratings_valorados": 10,
+        "raw_rating_slope": 0.030303030303030318,
+        "means_rating_slope": -0.010810682585522428
+    },
+    {
+        "nombre": "reviews-NECROPOLIS_DE_OCO.json",
+        "ratings": 15,
+        "ratings_valorados": 10,
+        "raw_rating_slope": 0.048484848484848485,
+        "means_rating_slope": -0.07856855265946178
+    },
+    {
+        "nombre": "reviews-PARQUE_DE_EL_SOTO_AVILA.json",
+        "ratings": 811,
+        "ratings_valorados": 10,
+        "raw_rating_slope": -0.14545454545454548,
+        "means_rating_slope": -1.220779048750519e-05
+    },
+    {
+        "nombre": "reviews-SANTUARIO_DE_NUESTRA_SENHORA_DE_SONSOLES.json",
+        "ratings": 1368,
+        "ratings_valorados": 10,
+        "raw_rating_slope": -0.006060606060606061,
+        "means_rating_slope": 0.00014141620605732165
+    },
+    {
+        "nombre": "reviews-VERRACO_CAMPILLO.json",
+        "ratings": 9,
+        "ratings_valorados": 9,
+        "raw_rating_slope": -0.26666666666666666,
+        "means_rating_slope": -0.06203703703703703
+    }
+]
