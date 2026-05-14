@@ -14,7 +14,7 @@ def review_mapper(json_review):
     return GoogleReview(
         id=json_review['review_id'],
         text=json_review['snippet'] if 'snippet' in json_review else "",
-        date=datetime.strptime(json_review['iso_date'], "%Y-%m-%dT%H:%M:%SZ"),
+        date=datetime.strptime(json_review['iso_date_of_last_edit'], "%Y-%m-%dT%H:%M:%SZ"),
         rating=json_review['rating']
     )
 def calculate(self):
@@ -93,30 +93,47 @@ def get_all_remote_reviews(place_id, api_key):
 
 
 def get_unseen_remote_reviews(place_id, api_key, saved_reviews):
-    new_reviews = []
-    data = {}
+    new_or_updated_reviews = []
+    data = get_last_remote_reviews(place_id, api_key) # Traemos la primera página
+    
     last_review_reached = False
+    
     while not last_review_reached:
-        has_more_pages = 'serpapi_pagination' in data
-
-        if not new_reviews:
-            data = get_last_remote_reviews(place_id, api_key)
-        elif has_more_pages:
-            next_url = data['serpapi_pagination']['next'] + '&num=20' + f'&api_key={api_key}'
+        if "reviews" in data:
+            found_something_in_this_page = False
+            
+            for review in data['reviews']:
+                rid = review['review_id']
+                remote_edit_date = review.get('iso_date_of_last_edit')
+                
+                # CASO A: La reseña no existe en nuestro JSON
+                if rid not in saved_reviews:
+                    new_or_updated_reviews.append(review)
+                    found_something_in_this_page = True
+                
+                # CASO B: La reseña EXISTE pero la FECHA DE EDICIÓN es distinta
+                elif remote_edit_date != saved_reviews[rid].get('iso_date_of_last_edit'):
+                    print(f"Detectada edición en reseña de: {review['user']['name']}")
+                    new_or_updated_reviews.append(review)
+                    found_something_in_this_page = True
+            
+            # Si en toda esta página no hemos encontrado ni una sola reseña nueva 
+            # ni una editada, asumimos que ya llegamos al "bloque" de datos antiguos.
+            if not found_something_in_this_page:
+                print("Llegamos a reseñas ya conocidas y sin cambios. Deteniendo búsqueda.")
+                last_review_reached = True
+                break
+        
+        # Paginación: si hay más páginas y no hemos decidido parar, seguimos
+        if 'serpapi_pagination' in data and not last_review_reached:
+            next_url = data['serpapi_pagination']['next'] + f'&api_key={api_key}'
             data = http_request(url=next_url)
+            time.sleep(1) # Un pequeño respiro para la API
         else:
             last_review_reached = True
 
-        if "reviews" in data:
-            for review in data['reviews']:
-                if review['review_id'] in saved_reviews:
-                    last_review_reached = True
-                else:
-                    new_reviews.append(review)
-
-    print(f'Cantidad de nuevas reseñas: {len(new_reviews)}')
-
-    return new_reviews
+    print(f'Total procesadas: {len(new_or_updated_reviews)} (nuevas o editadas)')
+    return new_or_updated_reviews
 
 def generate_graph(x_data, y_data, type="plot", title="", label_x="Eje x", label_y="Eje y"):
 
@@ -259,70 +276,68 @@ place_names = {
     PARQUE_DE_EL_SOTO_AVILA_ID : "PARQUE_DE_EL_SOTO_AVILA",
     SANTUARIO_DE_NUESTRA_SENHORA_DE_SONSOLES_ID : "SANTUARIO_DE_NUESTRA_SENHORA_DE_SONSOLES"
 }
-
-
 def run_full_analysis(
     place_id,
     api_key,
-    update_new_reviews=False,
+    update_new_reviews=True,
     progress_callback=None,
     output_path=""
 ):
     if not output_path:
         output_path = os.getcwd()    
-    reviews_file_name = f'files/reviews-{place_names[place_id]}.json'
+    
+    if not os.path.exists('files'):
+        os.makedirs('files')
 
+    reviews_file_name = f'files/reviews-{place_names[place_id]}.json'
     place = GooglePlace()
-    local_reviews = dict()
+    local_reviews = {}
 
     create_reviews_file_if_not_exists(reviews_file_name)
 
+    # 1. Cargar datos locales (tu JSON actual)
     with open(reviews_file_name, 'r', encoding='utf-8') as archivo:
         local_reviews = json.load(archivo)
 
-    if local_reviews == {}:
-        print("Descargando todas las reviews")
-        data = get_all_remote_reviews(place_id=place_id, api_key=api_key)
-        review_list = data['reviews']
+    print(f"Verificando {place_names[place_id]}...")
+    
+    # 2. Sincronización inteligente de reseñas (Nuevas y Editadas)
+    if update_new_reviews:
+        print(f"Buscando actualizaciones (nuevas o editadas) para {place_names[place_id]}...")
+        
+        # Llamamos a la función que compara fechas e IDs página por página
+        nuevas_o_editadas = get_unseen_remote_reviews(
+            place_id=place_id, 
+            api_key=api_key, 
+            saved_reviews=local_reviews
+        )
+        
+        if nuevas_o_editadas:
+            for item in nuevas_o_editadas:
+                # Al usar el ID como llave, si ya existe (editada), se SOBRESESCRIBE.
+                # Si no existe (nueva), se AGREGA.
+                local_reviews[item['review_id']] = item
+            
+            # Guardamos los cambios en el JSON
+            with open(reviews_file_name, 'w', encoding='utf-8') as archivo_escritura:
+                json.dump(local_reviews, archivo_escritura, ensure_ascii=False, indent=4)
+            print(f"JSON actualizado con {len(nuevas_o_editadas)} cambios.")
+        else:
+            print("Todo está al día. No se detectaron cambios recientes.")
 
-        for review_item in review_list:
-            review = review_mapper(review_item)
-            place.reviews.append(review)
-            local_reviews[review.id] = review_item
+    # 3. Cargar TODO (viejas + nuevas/editadas) en el objeto place
+    for review_key in local_reviews:
+        review_item = local_reviews[review_key]
+        review = review_mapper(review_item)
+        place.reviews.append(review)
 
-        with open(reviews_file_name, 'w', encoding='utf-8') as archivo_escritura:
-            json.dump(local_reviews, archivo_escritura, ensure_ascii=False, indent=4)
-
-    else:
-        print("Datos existentes")
-
-        for review_key in local_reviews:
-            review_item = local_reviews[review_key]
-            review = review_mapper(review_item)
-            place.reviews.append(review)
-
-        if update_new_reviews:
-            print("Consultando nuevas reseñas")
-            new_reviews = get_unseen_remote_reviews(
-                place_id=place_id,
-                api_key=api_key,
-                saved_reviews=local_reviews
-            )
-
-            for review_item in new_reviews:
-                review = review_mapper(review_item)
-                place.reviews.append(review)
-                local_reviews[review.id] = review_item
-
+    # 4. Cálculos para las gráficas
     ordered_reviews = place.get_ordered_reviews_by_date()
-
+    
     media_incremental = MediaIncremental()
-    x_data = []
-    mean_y_data = []
-    num_votes_array = []
+    x_data, mean_y_data, num_votes_array = [], [], []
     num_votes = 0
-
-    total = len(ordered_reviews)
+    total_to_process = len(ordered_reviews)
 
     for i, review in enumerate(ordered_reviews):
         num_votes += 1
@@ -332,10 +347,11 @@ def run_full_analysis(
         mean_y_data.append(media)
 
         if progress_callback:
-            percent = int((i + 1) / total * 100)
+            percent = int((i + 1) / total_to_process * 100)
             progress_callback(percent)
 
     final_score = mean_y_data[-1] if mean_y_data else 0
+    
     return {
         "final_score": final_score,
         "x_data": x_data,

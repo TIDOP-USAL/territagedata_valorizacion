@@ -20,9 +20,9 @@
             "reviews": 120,
             "photos": 86
         },
-        "snippet": "Sehr sch\u00f6ner ruhiger Ort mit Aussicht auf den Stausee. Sitzen und die Stille genie\u00dfen....",
+        "snippet": "Sehr schöner ruhiger Ort mit Aussicht auf den Stausee. Sitzen und die Stille genießen....",
         "extracted_snippet": {
-            "original": "Sehr sch\u00f6ner ruhiger Ort mit Aussicht auf den Stausee. Sitzen und die Stille genie\u00dfen....",
+            "original": "Sehr schöner ruhiger Ort mit Aussicht auf den Stausee. Sitzen und die Stille genießen....",
             "translated": "A very beautiful, quiet spot with a view of the reservoir. Sit and enjoy the peace and quiet...."
         }
     },
@@ -35,7 +35,7 @@
         "source": "Google",
         "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twd05rZEZkRVE1VkVwYU5EaHRWRmh0V2tWNGFFRRAB",
         "user": {
-            "name": "Adri\u00e1n S\u00e1nchez",
+            "name": "Adrián Sánchez",
             "link": "https://www.google.com/maps/contrib/109011205317478108945?hl=en-US",
             "contributor_id": "109011205317478108945",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKLw2dRb_h7sT6b4Ex1r_xx6UXK8cgBJbGbbv9mWuGxZncQag=s120-c-rp-mo-br100",
@@ -59,7 +59,7 @@
         "source": "Google",
         "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UlVHdHJXRlkyV1doTWVFbEhkSEZzVTI4MFgwRRAB",
         "user": {
-            "name": "Zolt\u00e1n Madar\u00e1sz",
+            "name": "Zoltán Madarász",
             "link": "https://www.google.com/maps/contrib/105311372976616844250?hl=en-US",
             "contributor_id": "105311372976616844250",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLTUU4l32upUmoAKa9OowTGKURp6OqExMNBmAojtUTT_u4DAQ=s120-c-rp-mo-ba4-br100",
@@ -127,7 +127,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VNSEIwOXJsNjVQemZREAE",
         "user": {
-            "name": "Ivan Santamar\u00eda Mart\u00ednez",
+            "name": "Ivan Santamaría Martínez",
             "link": "https://www.google.com/maps/contrib/116072410815866512766?hl=en-US",
             "contributor_id": "116072410815866512766",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJBX_RoOX4FVb0nYUssprjs660AniDD-6jJutCFrb6uUUeNig=s120-c-rp-mo-ba3-br100",
@@ -135,9 +135,9 @@
             "reviews": 39,
             "photos": 1
         },
-        "snippet": "Una visita bonita si vas por la zona. Carteles informativos. La \u00fanica pega es para nosotros los visitantes. Del campo te traes lo que te llevas. No tiremos porquer\u00eda.",
+        "snippet": "Una visita bonita si vas por la zona. Carteles informativos. La única pega es para nosotros los visitantes. Del campo te traes lo que te llevas. No tiremos porquería.",
         "extracted_snippet": {
-            "original": "Una visita bonita si vas por la zona. Carteles informativos. La \u00fanica pega es para nosotros los visitantes. Del campo te traes lo que te llevas. No tiremos porquer\u00eda.",
+            "original": "Una visita bonita si vas por la zona. Carteles informativos. La única pega es para nosotros los visitantes. Del campo te traes lo que te llevas. No tiremos porquería.",
             "translated": "A nice visit if you're in the area. Informative signs. The only drawback is for us visitors. You bring back what you take from the field. Let's not litter."
         },
         "details": {
@@ -226,10 +226,10 @@
             "reviews": 95,
             "photos": 208
         },
-        "snippet": "El embalse de Las Cogotas est\u00e1 situado cerca de \u00c1vila, se puede disfrutar de la naturaleza y el aire libre. Amplias aguas y el entorno monta\u00f1oso ofrecen paisajes espectaculares, se puede pasear de un lado al otro de la estructura de dicho embalse. Adem\u00e1s, cuenta con con un peque\u00f1o parking donde dejar el veh\u00edculo, adem\u00e1s hay senderos para caminar. Es un sitio tranquilo y hermoso, muy recomendable.",
+        "snippet": "El embalse de Las Cogotas está situado cerca de Ávila, se puede disfrutar de la naturaleza y el aire libre. Amplias aguas y el entorno montañoso ofrecen paisajes espectaculares, se puede pasear de un lado al otro de la estructura de dicho embalse. Además, cuenta con con un pequeño parking donde dejar el vehículo, además hay senderos para caminar. Es un sitio tranquilo y hermoso, muy recomendable.",
         "extracted_snippet": {
-            "original": "El embalse de Las Cogotas est\u00e1 situado cerca de \u00c1vila, se puede disfrutar de la naturaleza y el aire libre. Amplias aguas y el entorno monta\u00f1oso ofrecen paisajes espectaculares, se puede pasear de un lado al otro de la estructura de dicho embalse. Adem\u00e1s, cuenta con con un peque\u00f1o parking donde dejar el veh\u00edculo, adem\u00e1s hay senderos para caminar. Es un sitio tranquilo y hermoso, muy recomendable.",
-            "translated": "The Las Cogotas Reservoir is located near \u00c1vila, a place where you can enjoy nature and the outdoors. The vast waters and mountainous surroundings offer spectacular scenery, allowing you to walk from one side of the reservoir to the other. There is also a small parking lot where you can leave your vehicle, as well as walking trails. It is a peaceful and beautiful place, highly recommended."
+            "original": "El embalse de Las Cogotas está situado cerca de Ávila, se puede disfrutar de la naturaleza y el aire libre. Amplias aguas y el entorno montañoso ofrecen paisajes espectaculares, se puede pasear de un lado al otro de la estructura de dicho embalse. Además, cuenta con con un pequeño parking donde dejar el vehículo, además hay senderos para caminar. Es un sitio tranquilo y hermoso, muy recomendable.",
+            "translated": "The Las Cogotas Reservoir is located near Ávila, a place where you can enjoy nature and the outdoors. The vast waters and mountainous surroundings offer spectacular scenery, allowing you to walk from one side of the reservoir to the other. There is also a small parking lot where you can leave your vehicle, as well as walking trails. It is a peaceful and beautiful place, highly recommended."
         },
         "details": {
             "visited_on": "Weekend",
@@ -366,9 +366,9 @@
             "reviews": 13,
             "photos": 0
         },
-        "snippet": "Bonito,  bien conservado,  el guarda parque atento y alegre. Buen lugar para ir a ver la naturaleza y algo de historia. Recomiendo leer documentos hist\u00f3ricos sobre los vetones, as\u00ed el paseo es mucho m\u00e1s interesante.",
+        "snippet": "Bonito,  bien conservado,  el guarda parque atento y alegre. Buen lugar para ir a ver la naturaleza y algo de historia. Recomiendo leer documentos históricos sobre los vetones, así el paseo es mucho más interesante.",
         "extracted_snippet": {
-            "original": "Bonito,  bien conservado,  el guarda parque atento y alegre. Buen lugar para ir a ver la naturaleza y algo de historia. Recomiendo leer documentos hist\u00f3ricos sobre los vetones, as\u00ed el paseo es mucho m\u00e1s interesante.",
+            "original": "Bonito,  bien conservado,  el guarda parque atento y alegre. Buen lugar para ir a ver la naturaleza y algo de historia. Recomiendo leer documentos históricos sobre los vetones, así el paseo es mucho más interesante.",
             "translated": "Beautiful, well preserved, the park ranger attentive and cheerful. Good place to go see nature and some history. I recommend reading historical documents about the vetones, so the walk is much more interesting."
         },
         "details": {
@@ -428,10 +428,10 @@
             "reviews": 41,
             "photos": 41
         },
-        "snippet": "Castro t\u00edpico de la zona de \u00c1vila y Salamanca, similar al de Yecla o las Merchanas pero con una ubicaci\u00f3n privilegiada sobre el embalse.",
+        "snippet": "Castro típico de la zona de Ávila y Salamanca, similar al de Yecla o las Merchanas pero con una ubicación privilegiada sobre el embalse.",
         "extracted_snippet": {
-            "original": "Castro t\u00edpico de la zona de \u00c1vila y Salamanca, similar al de Yecla o las Merchanas pero con una ubicaci\u00f3n privilegiada sobre el embalse.",
-            "translated": "A typical fortified settlement in the \u00c1vila and Salamanca area, similar to that of Yecla or Las Merchanas but with a privileged location overlooking the reservoir."
+            "original": "Castro típico de la zona de Ávila y Salamanca, similar al de Yecla o las Merchanas pero con una ubicación privilegiada sobre el embalse.",
+            "translated": "A typical fortified settlement in the Ávila and Salamanca area, similar to that of Yecla or Las Merchanas but with a privileged location overlooking the reservoir."
         },
         "details": {
             "visited_on": "Weekday"
@@ -446,7 +446,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiZzdYWThBRRAB",
         "user": {
-            "name": "Carlos Gal\u00e9",
+            "name": "Carlos Galé",
             "link": "https://www.google.com/maps/contrib/113523768394362493026?hl=en",
             "contributor_id": "113523768394362493026",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUqItYVlWYk3AgCPDSTtU0CH3zd086APxkbfCjWLmCNSCHjZIHB=s120-c-rp-mo-ba4-br100",
@@ -454,9 +454,9 @@
             "reviews": 57,
             "photos": 23
         },
-        "snippet": "Yacimiento arqueol\u00f3gico muy interesante y bastante bien conservado. Merece m\u00e1s publicidad",
+        "snippet": "Yacimiento arqueológico muy interesante y bastante bien conservado. Merece más publicidad",
         "extracted_snippet": {
-            "original": "Yacimiento arqueol\u00f3gico muy interesante y bastante bien conservado. Merece m\u00e1s publicidad",
+            "original": "Yacimiento arqueológico muy interesante y bastante bien conservado. Merece más publicidad",
             "translated": "A very interesting and fairly well-preserved archaeological site. It deserves more publicity."
         },
         "details": {
@@ -474,7 +474,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiOUpDWjBBRRAB",
         "user": {
-            "name": "Fco.Javier Mart\u00edn",
+            "name": "Fco.Javier Martín",
             "link": "https://www.google.com/maps/contrib/107209494686968460093?hl=en",
             "contributor_id": "107209494686968460093",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLO3q_fgKtMiENCHXyvRWwPAUoYJKmlduEnwA7ONj3FiJ4PIw=s120-c-rp-mo-ba2-br100",
@@ -492,7 +492,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyZ0pXLXVnRRAB",
         "user": {
-            "name": "Miguel \u00c1ngel S\u00e1nchez",
+            "name": "Miguel Ángel Sánchez",
             "link": "https://www.google.com/maps/contrib/104546807093277730840?hl=en",
             "contributor_id": "104546807093277730840",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWjymPEjSuU3pc6nWguNF4k6EVbhRt0p4T9dJFQqkEQPSKkm8TV=s120-c-rp-mo-ba6-br100",
@@ -543,7 +543,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqdWRIQ01nEAE",
         "user": {
-            "name": "Jes\u00fas Hidalgo Mayo",
+            "name": "Jesús Hidalgo Mayo",
             "link": "https://www.google.com/maps/contrib/116644343054413478352?hl=en",
             "contributor_id": "116644343054413478352",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUb5VzEmgwuJvKxJZ2OElFvqvDFy8ZhkxL1RohjpV-G7tH2OLo=s120-c-rp-mo-br100",
@@ -560,7 +560,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqX0w3bjdBRRAB",
         "user": {
-            "name": "Ruben Garc\u00eda",
+            "name": "Ruben García",
             "link": "https://www.google.com/maps/contrib/100149327513021884580?hl=en",
             "contributor_id": "100149327513021884580",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKdyjnGjubPJzhPRDkYFI78mYELVNzluh_TWTSe3AnwmD8UHw=s120-c-rp-mo-ba2-br100",
@@ -609,7 +609,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkNE0zbGd3RRAB",
         "user": {
-            "name": "Alfon Jim\u00e9nez C.",
+            "name": "Alfon Jiménez C.",
             "link": "https://www.google.com/maps/contrib/112471677363544278335?hl=en",
             "contributor_id": "112471677363544278335",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXMv1aha-DufqU6tqHAo95ZEHIwsaKG8-gJ9essNjayGwPoWjVScA=s120-c-rp-mo-ba4-br100",
@@ -637,7 +637,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROcm9qNU1BEAE",
         "user": {
-            "name": "Jos\u00e9 Luis D\u00edez Juste",
+            "name": "José Luis Díez Juste",
             "link": "https://www.google.com/maps/contrib/106372184812136390726?hl=en",
             "contributor_id": "106372184812136390726",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKNvib61dGdkzP5bU-_uMRZVTY_VhPYMSZzBVD7kmY78A5H5nY=s120-c-rp-mo-br100",
@@ -695,7 +695,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadlp1T09nEAE",
         "user": {
-            "name": "Jos\u00e9 Mart\u00ednez",
+            "name": "José Martínez",
             "link": "https://www.google.com/maps/contrib/104183529436688844945?hl=en",
             "contributor_id": "104183529436688844945",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKR4sgFgrBqLuO_9dKH-YR0OpXbFZF89MdleI7XK3NmU7HoRg=s120-c-rp-mo-br100",
@@ -742,10 +742,10 @@
             "reviews": 171,
             "photos": 13
         },
-        "snippet": "Opidum desde donde se controlaba una amplia extensi\u00f3n de terreno. Se trata de   un museo al aire libre, y que adem\u00e1s permite bonitos paseos.",
+        "snippet": "Opidum desde donde se controlaba una amplia extensión de terreno. Se trata de   un museo al aire libre, y que además permite bonitos paseos.",
         "extracted_snippet": {
-            "original": "Opidum desde donde se controlaba una amplia extensi\u00f3n de terreno. Se trata de   un museo al aire libre, y que adem\u00e1s permite bonitos paseos.",
-            "translated": "Opidum from where a wide area of \u200b\u200bland was controlled. It is an open-air museum, which also allows for beautiful walks."
+            "original": "Opidum desde donde se controlaba una amplia extensión de terreno. Se trata de   un museo al aire libre, y que además permite bonitos paseos.",
+            "translated": "Opidum from where a wide area of ​​land was controlled. It is an open-air museum, which also allows for beautiful walks."
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSUNKbXVmVXlBRRAB": {
@@ -792,10 +792,10 @@
             "reviews": 220,
             "photos": 85
         },
-        "snippet": "Yacimiento de un castro vetton de la edad del hierro, aunque hay pocos restos originales y parte de la muralla reconstruida.\nNo nos ha parecido de los mejores castros existentes, tal vez porque esperabamos mas de un yacimiento que da nombre a varios tipos de cer\u00e1mica.\nAcceso por un camino de tierra en un estado aceptable para un turismo. Son algo mas de 3 km.\nNo pudimos bajarnos a ver la necr\u00f3polis porque hab\u00eda vacas avile\u00f1as en ella, algunas reci\u00e9n paridas, por lo que desistimos.\nMuy buena la atenci\u00f3n por parte de la vigilante del yacimiento y una pena que no haya visita guiada en junio.\nImprescindible la visita previa al aula de arqueolog\u00eda de Carde\u00f1osa sobre el yacimiento",
+        "snippet": "Yacimiento de un castro vetton de la edad del hierro, aunque hay pocos restos originales y parte de la muralla reconstruida.\nNo nos ha parecido de los mejores castros existentes, tal vez porque esperabamos mas de un yacimiento que da nombre a varios tipos de cerámica.\nAcceso por un camino de tierra en un estado aceptable para un turismo. Son algo mas de 3 km.\nNo pudimos bajarnos a ver la necrópolis porque había vacas avileñas en ella, algunas recién paridas, por lo que desistimos.\nMuy buena la atención por parte de la vigilante del yacimiento y una pena que no haya visita guiada en junio.\nImprescindible la visita previa al aula de arqueología de Cardeñosa sobre el yacimiento",
         "extracted_snippet": {
-            "original": "Yacimiento de un castro vetton de la edad del hierro, aunque hay pocos restos originales y parte de la muralla reconstruida.\nNo nos ha parecido de los mejores castros existentes, tal vez porque esperabamos mas de un yacimiento que da nombre a varios tipos de cer\u00e1mica.\nAcceso por un camino de tierra en un estado aceptable para un turismo. Son algo mas de 3 km.\nNo pudimos bajarnos a ver la necr\u00f3polis porque hab\u00eda vacas avile\u00f1as en ella, algunas reci\u00e9n paridas, por lo que desistimos.\nMuy buena la atenci\u00f3n por parte de la vigilante del yacimiento y una pena que no haya visita guiada en junio.\nImprescindible la visita previa al aula de arqueolog\u00eda de Carde\u00f1osa sobre el yacimiento",
-            "translated": "Site of a Vetton hill fort from the Iron Age, although there are few original remains and part of the wall has been reconstructed.\nWe didn't find it one of the best existing hill forts, perhaps because we were expecting more from a site that gives its name to several types of pottery.\nAccess is via a dirt road in acceptable condition for a tourist vehicle. It's a little over 3 km.\nWe couldn't get off to see the necropolis because there were Avilanian cows there, some of them recently calved, so we gave up.\nThe site manager provided excellent service, and it's a shame there's no guided tour in June.\nA visit to the Carde\u00f1osa archaeology classroom about the site is a must beforehand."
+            "original": "Yacimiento de un castro vetton de la edad del hierro, aunque hay pocos restos originales y parte de la muralla reconstruida.\nNo nos ha parecido de los mejores castros existentes, tal vez porque esperabamos mas de un yacimiento que da nombre a varios tipos de cerámica.\nAcceso por un camino de tierra en un estado aceptable para un turismo. Son algo mas de 3 km.\nNo pudimos bajarnos a ver la necrópolis porque había vacas avileñas en ella, algunas recién paridas, por lo que desistimos.\nMuy buena la atención por parte de la vigilante del yacimiento y una pena que no haya visita guiada en junio.\nImprescindible la visita previa al aula de arqueología de Cardeñosa sobre el yacimiento",
+            "translated": "Site of a Vetton hill fort from the Iron Age, although there are few original remains and part of the wall has been reconstructed.\nWe didn't find it one of the best existing hill forts, perhaps because we were expecting more from a site that gives its name to several types of pottery.\nAccess is via a dirt road in acceptable condition for a tourist vehicle. It's a little over 3 km.\nWe couldn't get off to see the necropolis because there were Avilanian cows there, some of them recently calved, so we gave up.\nThe site manager provided excellent service, and it's a shame there's no guided tour in June.\nA visit to the Cardeñosa archaeology classroom about the site is a must beforehand."
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSUN4bTdlejNnRRAB": {
@@ -857,7 +857,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSXzlMcy1RRRAB",
         "user": {
-            "name": "Lorenzo Berm\u00fadez",
+            "name": "Lorenzo Bermúdez",
             "link": "https://www.google.com/maps/contrib/112008849215381543682?hl=en",
             "contributor_id": "112008849215381543682",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWh4J0u2o4kzB1ZaoBLDGv7ahXK8h_ektTx5SCRWZUyXlU95fdnTw=s120-c-rp-mo-ba4-br100",
@@ -940,10 +940,10 @@
             "reviews": 81,
             "photos": 60
         },
-        "snippet": "Sitio q rezuma historia, se nota. Pero quiz\u00e1 se echa en falta m\u00e1s personal. El \u00fanico q hab\u00eda tampoco contaba mucho. Paraje muy bonito junto a la ciudad amurallada de \u00c1vila.",
+        "snippet": "Sitio q rezuma historia, se nota. Pero quizá se echa en falta más personal. El único q había tampoco contaba mucho. Paraje muy bonito junto a la ciudad amurallada de Ávila.",
         "extracted_snippet": {
-            "original": "Sitio q rezuma historia, se nota. Pero quiz\u00e1 se echa en falta m\u00e1s personal. El \u00fanico q hab\u00eda tampoco contaba mucho. Paraje muy bonito junto a la ciudad amurallada de \u00c1vila.",
-            "translated": "A place that oozes history, it's noticeable. But perhaps it's missing more staff. The only one there wasn't much to speak of. A very beautiful spot next to the walled city of \u00c1vila."
+            "original": "Sitio q rezuma historia, se nota. Pero quizá se echa en falta más personal. El único q había tampoco contaba mucho. Paraje muy bonito junto a la ciudad amurallada de Ávila.",
+            "translated": "A place that oozes history, it's noticeable. But perhaps it's missing more staff. The only one there wasn't much to speak of. A very beautiful spot next to the walled city of Ávila."
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSUNSdjdyT3Z3RRAB": {
@@ -963,9 +963,9 @@
             "reviews": 35,
             "photos": 1
         },
-        "snippet": "Decepcionante. Hay que echarle mucha imaginaci\u00f3n, paciencia y un 4x4.",
+        "snippet": "Decepcionante. Hay que echarle mucha imaginación, paciencia y un 4x4.",
         "extracted_snippet": {
-            "original": "Decepcionante. Hay que echarle mucha imaginaci\u00f3n, paciencia y un 4x4.",
+            "original": "Decepcionante. Hay que echarle mucha imaginación, paciencia y un 4x4.",
             "translated": "Disappointing. It takes a lot of imagination, patience, and a 4x4."
         },
         "details": {
@@ -990,9 +990,9 @@
             "reviews": 114,
             "photos": 2037
         },
-        "snippet": "unas vistas muy chulas. es un asentamiento antiguo que se empez\u00f3 a construir en el siglo V a.c recomendable para ir en familia, ya que subir hasta arriba no tiene mucha dificultad.",
+        "snippet": "unas vistas muy chulas. es un asentamiento antiguo que se empezó a construir en el siglo V a.c recomendable para ir en familia, ya que subir hasta arriba no tiene mucha dificultad.",
         "extracted_snippet": {
-            "original": "unas vistas muy chulas. es un asentamiento antiguo que se empez\u00f3 a construir en el siglo V a.c recomendable para ir en familia, ya que subir hasta arriba no tiene mucha dificultad.",
+            "original": "unas vistas muy chulas. es un asentamiento antiguo que se empezó a construir en el siglo V a.c recomendable para ir en familia, ya que subir hasta arriba no tiene mucha dificultad.",
             "translated": "Some very cool views. It's an ancient settlement that began construction in the 5th century BC. It's a great place to visit with the family, as the climb to the top isn't too difficult."
         }
     },
@@ -1008,7 +1008,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSa2FQbnV3RRAB",
         "user": {
-            "name": "Juan Pablo Lopez Garc\u00eda",
+            "name": "Juan Pablo Lopez García",
             "link": "https://www.google.com/maps/contrib/114960669304839812827?hl=en",
             "contributor_id": "114960669304839812827",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLiTjRvhv-4UsOFgCy7GOvf3FEG7w7Khg2pWkOTbVw91etqHA=s120-c-rp-mo-br100",
@@ -1038,9 +1038,9 @@
             "reviews": 78,
             "photos": 26
         },
-        "snippet": "Lugar muy bonito y la se\u00f1ora que est\u00e1 en el punto de informaci\u00f3n muy agradable.",
+        "snippet": "Lugar muy bonito y la señora que está en el punto de información muy agradable.",
         "extracted_snippet": {
-            "original": "Lugar muy bonito y la se\u00f1ora que est\u00e1 en el punto de informaci\u00f3n muy agradable.",
+            "original": "Lugar muy bonito y la señora que está en el punto de información muy agradable.",
             "translated": "Very nice place and the lady at the information point is very nice."
         },
         "details": {
@@ -1066,9 +1066,9 @@
             "reviews": 35,
             "photos": 12
         },
-        "snippet": "Para hacer una rutilla r\u00e1pida est\u00e1 muy bien, tiene carteles distribuidos por el terreno para explicar cada zona, a parte en cada uno de los carteles viene un mapa de la zona, si tienes alg\u00fan tipo de limitaci\u00f3n f\u00edsica igual te es dif\u00edcil acceder, por lo dem\u00e1s es muy bonito",
+        "snippet": "Para hacer una rutilla rápida está muy bien, tiene carteles distribuidos por el terreno para explicar cada zona, a parte en cada uno de los carteles viene un mapa de la zona, si tienes algún tipo de limitación física igual te es difícil acceder, por lo demás es muy bonito",
         "extracted_snippet": {
-            "original": "Para hacer una rutilla r\u00e1pida est\u00e1 muy bien, tiene carteles distribuidos por el terreno para explicar cada zona, a parte en cada uno de los carteles viene un mapa de la zona, si tienes alg\u00fan tipo de limitaci\u00f3n f\u00edsica igual te es dif\u00edcil acceder, por lo dem\u00e1s es muy bonito",
+            "original": "Para hacer una rutilla rápida está muy bien, tiene carteles distribuidos por el terreno para explicar cada zona, a parte en cada uno de los carteles viene un mapa de la zona, si tienes algún tipo de limitación física igual te es difícil acceder, por lo demás es muy bonito",
             "translated": "It's great for a quick route, there are signs distributed around the area to explain each area, and each sign has a map of the area. If you have any physical limitations, it might be difficult to access. Otherwise, it's very nice."
         },
         "details": {
@@ -1127,7 +1127,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcFoyQWFBEAE",
         "user": {
-            "name": "H\u00e9ctor",
+            "name": "Héctor",
             "link": "https://www.google.com/maps/contrib/115135851863628962401?hl=en",
             "contributor_id": "115135851863628962401",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVpm943U4NyOi1wFQ_bY3KMMG5bE7NOgdA8sxaDBVVORJpfD_uaJw=s120-c-rp-mo-ba3-br100",
@@ -1168,7 +1168,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtX0l5VkZ3EAE",
         "user": {
-            "name": "Andrea San Juli\u00e1n",
+            "name": "Andrea San Julián",
             "link": "https://www.google.com/maps/contrib/101424432946867609960?hl=en",
             "contributor_id": "101424432946867609960",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUmV75D2COYqXGjgoh372WCg7ZG23DG0U8AmoXK0Mn1aaNlxEPa=s120-c-rp-mo-br100",
@@ -1221,9 +1221,9 @@
             "reviews": 1051,
             "photos": 911
         },
-        "snippet": "De mi \u00faltima visita,hace muchos a\u00f1os\n..no fui capaz ni de ver las murallas,por la vegetaci\u00f3n que se lo com\u00eda...\nLo han limpiado y adecentado....hay un vigilante(eso me gusta)\nY se ve r\u00e1pidamente.......\nHay que aparcar antes de cruzar la presa..y luego un paseo de 5 minutos llegas arriba\n...\nBonitas vistas desde arriba......\nMurallas impresionantes...",
+        "snippet": "De mi última visita,hace muchos años\n..no fui capaz ni de ver las murallas,por la vegetación que se lo comía...\nLo han limpiado y adecentado....hay un vigilante(eso me gusta)\nY se ve rápidamente.......\nHay que aparcar antes de cruzar la presa..y luego un paseo de 5 minutos llegas arriba\n...\nBonitas vistas desde arriba......\nMurallas impresionantes...",
         "extracted_snippet": {
-            "original": "De mi \u00faltima visita,hace muchos a\u00f1os\n..no fui capaz ni de ver las murallas,por la vegetaci\u00f3n que se lo com\u00eda...\nLo han limpiado y adecentado....hay un vigilante(eso me gusta)\nY se ve r\u00e1pidamente.......\nHay que aparcar antes de cruzar la presa..y luego un paseo de 5 minutos llegas arriba\n...\nBonitas vistas desde arriba......\nMurallas impresionantes...",
+            "original": "De mi última visita,hace muchos años\n..no fui capaz ni de ver las murallas,por la vegetación que se lo comía...\nLo han limpiado y adecentado....hay un vigilante(eso me gusta)\nY se ve rápidamente.......\nHay que aparcar antes de cruzar la presa..y luego un paseo de 5 minutos llegas arriba\n...\nBonitas vistas desde arriba......\nMurallas impresionantes...",
             "translated": "From my last visit, many years ago\n...I wasn't even able to see the walls, because of the vegetation that was eating away at them...\nThey've cleaned and tidied it up... there's a security guard (I like that)\nAnd you can see it quickly...\nYou have to park before crossing the dam... and then a 5-minute walk takes you to the top\n...\nBeautiful views from the top...\nImpressive walls..."
         }
     },
@@ -1258,7 +1258,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlaTVEOHJBRRAB",
         "user": {
-            "name": "Jos\u00e9 Antonio Carmona S\u00e1ez",
+            "name": "José Antonio Carmona Sáez",
             "link": "https://www.google.com/maps/contrib/106663574216968192999?hl=en",
             "contributor_id": "106663574216968192999",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUa1OCuVeaZNJCiLyM8kG0wA2ip68C3AuzZ2ztXWY5AfjCDwqR4KQ=s120-c-rp-mo-ba7-br100",
@@ -1281,7 +1281,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMGQzbVhREAE",
         "user": {
-            "name": "Jos\u00e9 M\u00aa Palacios",
+            "name": "José Mª Palacios",
             "link": "https://www.google.com/maps/contrib/101773482046893113826?hl=en",
             "contributor_id": "101773482046893113826",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVAQUGJhETfPrKF4qNU5O3oxZNvOGi7EWLXWkTejum7Lxq0tNuE=s120-c-rp-mo-ba6-br100",
@@ -1311,10 +1311,10 @@
             "reviews": 11,
             "photos": 15
         },
-        "snippet": "Es un lugar maravilloso, las vistas del pantano son insuperables, el castro, de acceso muy f\u00e1cil, por lo que representa (en especial para los que somos extremadamente frikis de nuestra historia prerromana) es simplemente alucinante, una forma fant\u00e1stica de viajar a nuestro remoto pasado. La carteler\u00eda para m\u00ed suficiente, muy interesante y pedag\u00f3gica para quien no est\u00e1 muy metido en el tema. La pena es lo poco atendido que est\u00e1 y en especial, la necr\u00f3polis, que es un verdadero caos, una verdadera l\u00e1stima. Mi calificaci\u00f3n se debe a la ilusi\u00f3n que me hace siempre estar por all\u00ed. Lo del Aula Arqueol\u00f3gica lo expondr\u00e9 en otra rese\u00f1a porque eso s\u00ed es de juzgado de guardia. Id por la presa, dejad el coche en el aparcamiento y en 10 minutos est\u00e1is en el castro, ahorraos el viaje a Carde\u00f1osa, sobre todo si es en fin de semana, est\u00e1 cerrado, que no hay nadie vamos, y la pista para llegar en coche es aceptable pero mejor no hacer sufrir al coche por un lugar en el que te aseguran que abren de 10:00 a 14:00 s\u00e1bados y domingos y tienes que esperar a que aparezca un vet\u00f3n para abrirte porque de los vivos no aparece ni dios.",
+        "snippet": "Es un lugar maravilloso, las vistas del pantano son insuperables, el castro, de acceso muy fácil, por lo que representa (en especial para los que somos extremadamente frikis de nuestra historia prerromana) es simplemente alucinante, una forma fantástica de viajar a nuestro remoto pasado. La cartelería para mí suficiente, muy interesante y pedagógica para quien no está muy metido en el tema. La pena es lo poco atendido que está y en especial, la necrópolis, que es un verdadero caos, una verdadera lástima. Mi calificación se debe a la ilusión que me hace siempre estar por allí. Lo del Aula Arqueológica lo expondré en otra reseña porque eso sí es de juzgado de guardia. Id por la presa, dejad el coche en el aparcamiento y en 10 minutos estáis en el castro, ahorraos el viaje a Cardeñosa, sobre todo si es en fin de semana, está cerrado, que no hay nadie vamos, y la pista para llegar en coche es aceptable pero mejor no hacer sufrir al coche por un lugar en el que te aseguran que abren de 10:00 a 14:00 sábados y domingos y tienes que esperar a que aparezca un vetón para abrirte porque de los vivos no aparece ni dios.",
         "extracted_snippet": {
-            "original": "Es un lugar maravilloso, las vistas del pantano son insuperables, el castro, de acceso muy f\u00e1cil, por lo que representa (en especial para los que somos extremadamente frikis de nuestra historia prerromana) es simplemente alucinante, una forma fant\u00e1stica de viajar a nuestro remoto pasado. La carteler\u00eda para m\u00ed suficiente, muy interesante y pedag\u00f3gica para quien no est\u00e1 muy metido en el tema. La pena es lo poco atendido que est\u00e1 y en especial, la necr\u00f3polis, que es un verdadero caos, una verdadera l\u00e1stima. Mi calificaci\u00f3n se debe a la ilusi\u00f3n que me hace siempre estar por all\u00ed. Lo del Aula Arqueol\u00f3gica lo expondr\u00e9 en otra rese\u00f1a porque eso s\u00ed es de juzgado de guardia. Id por la presa, dejad el coche en el aparcamiento y en 10 minutos est\u00e1is en el castro, ahorraos el viaje a Carde\u00f1osa, sobre todo si es en fin de semana, est\u00e1 cerrado, que no hay nadie vamos, y la pista para llegar en coche es aceptable pero mejor no hacer sufrir al coche por un lugar en el que te aseguran que abren de 10:00 a 14:00 s\u00e1bados y domingos y tienes que esperar a que aparezca un vet\u00f3n para abrirte porque de los vivos no aparece ni dios.",
-            "translated": "It's a wonderful place; the views of the reservoir are unsurpassed. The fort is very easily accessible, and for what it represents (especially for those of us who are extremely geeky about our pre-Roman history), it's simply mind-blowing, a fantastic way to travel back in time. The signage, for me, is sufficient, very interesting, and educational for those not well-versed in the subject. The only downside is how poorly maintained it is, especially the necropolis, which is a real mess, a real shame. My rating is due to the excitement I always get from being there. I'll explain the Archaeological Classroom in another review because that's a real issue. Go through the dam, leave the car in the parking lot and in 10 minutes you'll be at the fort, save yourself the trip to Carde\u00f1osa, especially if it's on the weekend, it's closed, there's nobody there, and the track to get there by car is acceptable but it's better not to make the car suffer for a place where they assure you they're open from 10:00 to 14:00 Saturdays and Sundays and you have to wait for a veton to appear to open for you because no one of the smart ones appears."
+            "original": "Es un lugar maravilloso, las vistas del pantano son insuperables, el castro, de acceso muy fácil, por lo que representa (en especial para los que somos extremadamente frikis de nuestra historia prerromana) es simplemente alucinante, una forma fantástica de viajar a nuestro remoto pasado. La cartelería para mí suficiente, muy interesante y pedagógica para quien no está muy metido en el tema. La pena es lo poco atendido que está y en especial, la necrópolis, que es un verdadero caos, una verdadera lástima. Mi calificación se debe a la ilusión que me hace siempre estar por allí. Lo del Aula Arqueológica lo expondré en otra reseña porque eso sí es de juzgado de guardia. Id por la presa, dejad el coche en el aparcamiento y en 10 minutos estáis en el castro, ahorraos el viaje a Cardeñosa, sobre todo si es en fin de semana, está cerrado, que no hay nadie vamos, y la pista para llegar en coche es aceptable pero mejor no hacer sufrir al coche por un lugar en el que te aseguran que abren de 10:00 a 14:00 sábados y domingos y tienes que esperar a que aparezca un vetón para abrirte porque de los vivos no aparece ni dios.",
+            "translated": "It's a wonderful place; the views of the reservoir are unsurpassed. The fort is very easily accessible, and for what it represents (especially for those of us who are extremely geeky about our pre-Roman history), it's simply mind-blowing, a fantastic way to travel back in time. The signage, for me, is sufficient, very interesting, and educational for those not well-versed in the subject. The only downside is how poorly maintained it is, especially the necropolis, which is a real mess, a real shame. My rating is due to the excitement I always get from being there. I'll explain the Archaeological Classroom in another review because that's a real issue. Go through the dam, leave the car in the parking lot and in 10 minutes you'll be at the fort, save yourself the trip to Cardeñosa, especially if it's on the weekend, it's closed, there's nobody there, and the track to get there by car is acceptable but it's better not to make the car suffer for a place where they assure you they're open from 10:00 to 14:00 Saturdays and Sundays and you have to wait for a veton to appear to open for you because no one of the smart ones appears."
         },
         "details": {
             "visited_on": "Weekend",
@@ -1392,10 +1392,10 @@
             "reviews": 114,
             "photos": 183
         },
-        "snippet": "En sitio precioso si te gusta la arqueol\u00f3gico  y sobre todo si tienes la suerte que este la vigilante  Bel\u00e9n un persona encantadora y muy preparada.",
+        "snippet": "En sitio precioso si te gusta la arqueológico  y sobre todo si tienes la suerte que este la vigilante  Belén un persona encantadora y muy preparada.",
         "extracted_snippet": {
-            "original": "En sitio precioso si te gusta la arqueol\u00f3gico  y sobre todo si tienes la suerte que este la vigilante  Bel\u00e9n un persona encantadora y muy preparada.",
-            "translated": "In a beautiful place if you like archaeology and especially if you are lucky enough to have the security guard Bel\u00e9n, a charming and very knowledgeable person."
+            "original": "En sitio precioso si te gusta la arqueológico  y sobre todo si tienes la suerte que este la vigilante  Belén un persona encantadora y muy preparada.",
+            "translated": "In a beautiful place if you like archaeology and especially if you are lucky enough to have the security guard Belén, a charming and very knowledgeable person."
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSUR1cG9pX3BRRRAB": {
@@ -1424,7 +1424,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1dXBEbGh3RRAB",
         "user": {
-            "name": "inmaculada d\u00edaz",
+            "name": "inmaculada díaz",
             "link": "https://www.google.com/maps/contrib/116707298193234780448?hl=en",
             "contributor_id": "116707298193234780448",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI91lteZi240KUg63iDsH7F6KACP0JCpv0k0oC4k8dufrR5Fg=s120-c-rp-mo-br100",
@@ -1453,16 +1453,16 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1X0pqQTFnRRAB",
         "user": {
-            "name": "MAR\u00cdA JES\u00daS BL\u00c1ZQUEZ",
+            "name": "MARÍA JESÚS BLÁZQUEZ",
             "link": "https://www.google.com/maps/contrib/113034819435879938636?hl=en",
             "contributor_id": "113034819435879938636",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVWpLT-iigZQKtBrcONLawTBlw97yt88GAgnUHD4ozXBysanfc=s120-c-rp-mo-br100",
             "reviews": 51,
             "photos": 101
         },
-        "snippet": "El castro vet\u00f3n de las Cogotas destaca por muchas razones: su enclave pintoresco pr\u00f3ximo al embalse; las piedras hinchadas; su recia muralla; la puerta principal en ligero esviaje ; las viviendas abancaladas...No deben dejar de visitarlo las personas amantes de la Arqueolog\u00eda.",
+        "snippet": "El castro vetón de las Cogotas destaca por muchas razones: su enclave pintoresco próximo al embalse; las piedras hinchadas; su recia muralla; la puerta principal en ligero esviaje ; las viviendas abancaladas...No deben dejar de visitarlo las personas amantes de la Arqueología.",
         "extracted_snippet": {
-            "original": "El castro vet\u00f3n de las Cogotas destaca por muchas razones: su enclave pintoresco pr\u00f3ximo al embalse; las piedras hinchadas; su recia muralla; la puerta principal en ligero esviaje ; las viviendas abancaladas...No deben dejar de visitarlo las personas amantes de la Arqueolog\u00eda.",
+            "original": "El castro vetón de las Cogotas destaca por muchas razones: su enclave pintoresco próximo al embalse; las piedras hinchadas; su recia muralla; la puerta principal en ligero esviaje ; las viviendas abancaladas...No deben dejar de visitarlo las personas amantes de la Arqueología.",
             "translated": "The Vetton hill fort of Las Cogotas stands out for many reasons: its picturesque location near the reservoir; the swollen stones; its sturdy wall; the gently sloping main gate; the terraced houses... Archaeology enthusiasts should definitely visit it."
         },
         "details": {
@@ -1560,10 +1560,10 @@
             "reviews": 92,
             "photos": 1238
         },
-        "snippet": "Visita obligada a escasos kil\u00f3metros de \u00c1vila para descubrir el pasado Vetton",
+        "snippet": "Visita obligada a escasos kilómetros de Ávila para descubrir el pasado Vetton",
         "extracted_snippet": {
-            "original": "Visita obligada a escasos kil\u00f3metros de \u00c1vila para descubrir el pasado Vetton",
-            "translated": "A must-see just a few kilometers from \u00c1vila to discover Vetton's past"
+            "original": "Visita obligada a escasos kilómetros de Ávila para descubrir el pasado Vetton",
+            "translated": "A must-see just a few kilometers from Ávila to discover Vetton's past"
         },
         "details": {
             "visited_on": "Weekend",
@@ -1595,9 +1595,9 @@
             "reviews": 8,
             "photos": 8
         },
-        "snippet": "Un lugar muy tranquilo, con una vista panor\u00e1mica espectacular. Se pueden apreciar las ruinas antiguas y los asentamientos.",
+        "snippet": "Un lugar muy tranquilo, con una vista panorámica espectacular. Se pueden apreciar las ruinas antiguas y los asentamientos.",
         "extracted_snippet": {
-            "original": "Un lugar muy tranquilo, con una vista panor\u00e1mica espectacular. Se pueden apreciar las ruinas antiguas y los asentamientos.",
+            "original": "Un lugar muy tranquilo, con una vista panorámica espectacular. Se pueden apreciar las ruinas antiguas y los asentamientos.",
             "translated": "A very peaceful place with a spectacular panoramic view. You can appreciate the ancient ruins and settlements."
         },
         "details": {
@@ -1635,7 +1635,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQybnUyZ1FBEAE",
         "user": {
-            "name": "Guzm\u00e1n Arce",
+            "name": "Guzmán Arce",
             "link": "https://www.google.com/maps/contrib/100673205827699192194?hl=en",
             "contributor_id": "100673205827699192194",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWBO4_PPdHrgRvgfxjYTIUqfz05eNZCBHOjw47qZxxKOQd-GHeKwA=s120-c-rp-mo-ba4-br100",
@@ -1643,10 +1643,10 @@
             "reviews": 59,
             "photos": 41
         },
-        "snippet": "Bonito paseo al lado de \u00c1vila",
+        "snippet": "Bonito paseo al lado de Ávila",
         "extracted_snippet": {
-            "original": "Bonito paseo al lado de \u00c1vila",
-            "translated": "Nice walk next to \u00c1vila"
+            "original": "Bonito paseo al lado de Ávila",
+            "translated": "Nice walk next to Ávila"
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSUMyMzdhNjhBRRAB": {
@@ -1755,7 +1755,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXa0tMTWlRRRAB",
         "user": {
-            "name": "Jos\u00e9 Pablo Medina Grande",
+            "name": "José Pablo Medina Grande",
             "link": "https://www.google.com/maps/contrib/116423200276699422436?hl=en",
             "contributor_id": "116423200276699422436",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL7gG4N3IYqvGiwYYejp2CSfJqM5yIGiD3HLihHP_Y2Akv9Gg=s120-c-rp-mo-ba3-br100",
@@ -1813,9 +1813,9 @@
             "reviews": 41,
             "photos": 101
         },
-        "snippet": "F\u00e1cil acceso",
+        "snippet": "Fácil acceso",
         "extracted_snippet": {
-            "original": "F\u00e1cil acceso",
+            "original": "Fácil acceso",
             "translated": "Easy access"
         }
     },
@@ -1833,7 +1833,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtbGNXSnJRRRAB",
         "user": {
-            "name": "\u00c1ngel Gil Marcos",
+            "name": "Ángel Gil Marcos",
             "link": "https://www.google.com/maps/contrib/106797403407967201436?hl=en",
             "contributor_id": "106797403407967201436",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU_h3wxrWCRIxlKCwDJ4PKP9IoTUb7MLsrHoixl_IIhigBCnb2CsA=s120-c-rp-mo-ba4-br100",
@@ -1841,10 +1841,10 @@
             "reviews": 123,
             "photos": 107
         },
-        "snippet": "Un lugar espectacular a pocos kil\u00f3metros de \u00c1vila. Recomendable para visitar con ni\u00f1os.",
+        "snippet": "Un lugar espectacular a pocos kilómetros de Ávila. Recomendable para visitar con niños.",
         "extracted_snippet": {
-            "original": "Un lugar espectacular a pocos kil\u00f3metros de \u00c1vila. Recomendable para visitar con ni\u00f1os.",
-            "translated": "A spectacular place a few kilometers from \u00c1vila. Recommended to visit with children."
+            "original": "Un lugar espectacular a pocos kilómetros de Ávila. Recomendable para visitar con niños.",
+            "translated": "A spectacular place a few kilometers from Ávila. Recommended to visit with children."
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSURHcTVubnVRRRAB": {
@@ -1856,7 +1856,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHcTVubnVRRRAB",
         "user": {
-            "name": "Cristina Guti\u00e9rrez",
+            "name": "Cristina Gutiérrez",
             "link": "https://www.google.com/maps/contrib/104902673192348077073?hl=en",
             "contributor_id": "104902673192348077073",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKtaydnw7oBDxqEcfQlYYYC816SSWsIICnHi9dpz-3Vz8Hd_Q=s120-c-rp-mo-br100",
@@ -1877,7 +1877,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHb3NlZGJnEAE",
         "user": {
-            "name": "Francisca Hernandez Mart\u00edn",
+            "name": "Francisca Hernandez Martín",
             "link": "https://www.google.com/maps/contrib/107087333504489847589?hl=en",
             "contributor_id": "107087333504489847589",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVaHumx_NidDNsUfXxmnZOoqZG119pGKXenO7XDd8hYvSKTGdkf=s120-c-rp-mo-ba3-br100",
@@ -1885,10 +1885,10 @@
             "reviews": 44,
             "photos": 55
         },
-        "snippet": "Todo Bonito\ud83d\udc4d\ud83d\udc4d",
+        "snippet": "Todo Bonito👍👍",
         "extracted_snippet": {
-            "original": "Todo Bonito\ud83d\udc4d\ud83d\udc4d",
-            "translated": "Everything Beautiful\ud83d\udc4d\ud83d\udc4d"
+            "original": "Todo Bonito👍👍",
+            "translated": "Everything Beautiful👍👍"
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSURHdkt2VzdBRRAB": {
@@ -1954,9 +1954,9 @@
             "reviews": 208,
             "photos": 65
         },
-        "snippet": "Vistas espectaculares desde arriba, solo por eso ya merece la pena ir. Me hubiera gustado alguna visita guiada para entender mejor los restos arqueol\u00f3gicos",
+        "snippet": "Vistas espectaculares desde arriba, solo por eso ya merece la pena ir. Me hubiera gustado alguna visita guiada para entender mejor los restos arqueológicos",
         "extracted_snippet": {
-            "original": "Vistas espectaculares desde arriba, solo por eso ya merece la pena ir. Me hubiera gustado alguna visita guiada para entender mejor los restos arqueol\u00f3gicos",
+            "original": "Vistas espectaculares desde arriba, solo por eso ya merece la pena ir. Me hubiera gustado alguna visita guiada para entender mejor los restos arqueológicos",
             "translated": "Spectacular views from above, worth the visit alone. I would have liked a guided tour to better understand the archaeological remains."
         }
     },
@@ -1977,10 +1977,10 @@
             "reviews": 7,
             "photos": 1
         },
-        "snippet": "Vistas estupendas, muy cuidado y, lo mejor, los comentarios y explicaciones de Bel\u00e9n (con la compa\u00f1\u00eda de Kira). Hace el recorrido muy interesante y te quedan ganas de repetir. Muy recomendable visitarlo",
+        "snippet": "Vistas estupendas, muy cuidado y, lo mejor, los comentarios y explicaciones de Belén (con la compañía de Kira). Hace el recorrido muy interesante y te quedan ganas de repetir. Muy recomendable visitarlo",
         "extracted_snippet": {
-            "original": "Vistas estupendas, muy cuidado y, lo mejor, los comentarios y explicaciones de Bel\u00e9n (con la compa\u00f1\u00eda de Kira). Hace el recorrido muy interesante y te quedan ganas de repetir. Muy recomendable visitarlo",
-            "translated": "Great views, very well maintained, and best of all, Bel\u00e9n's commentary and explanations (accompanied by Kira). It makes the tour very interesting and leaves you wanting to do it again. Highly recommended."
+            "original": "Vistas estupendas, muy cuidado y, lo mejor, los comentarios y explicaciones de Belén (con la compañía de Kira). Hace el recorrido muy interesante y te quedan ganas de repetir. Muy recomendable visitarlo",
+            "translated": "Great views, very well maintained, and best of all, Belén's commentary and explanations (accompanied by Kira). It makes the tour very interesting and leaves you wanting to do it again. Highly recommended."
         }
     },
     "ChZDSUhNMG9nS0VJQ0FnSUNHNDlfY1FREAE": {
@@ -2051,9 +2051,9 @@
             "reviews": 97,
             "photos": 473
         },
-        "snippet": "Estupendo todo magn\u00edfico",
+        "snippet": "Estupendo todo magnífico",
         "extracted_snippet": {
-            "original": "Estupendo todo magn\u00edfico",
+            "original": "Estupendo todo magnífico",
             "translated": "Great everything magnificent"
         }
     },
@@ -2097,9 +2097,9 @@
             "reviews": 14,
             "photos": 10
         },
-        "snippet": "Una gran excavaci\u00f3n. Y unas vistas preciosas.\nAccedimos por el pueblo y atravesamos la monta\u00f1a hasta llegar. Esta bien indicado",
+        "snippet": "Una gran excavación. Y unas vistas preciosas.\nAccedimos por el pueblo y atravesamos la montaña hasta llegar. Esta bien indicado",
         "extracted_snippet": {
-            "original": "Una gran excavaci\u00f3n. Y unas vistas preciosas.\nAccedimos por el pueblo y atravesamos la monta\u00f1a hasta llegar. Esta bien indicado",
+            "original": "Una gran excavación. Y unas vistas preciosas.\nAccedimos por el pueblo y atravesamos la montaña hasta llegar. Esta bien indicado",
             "translated": "A large excavation. And beautiful views.\nWe entered through the village and crossed the mountain to get there. It's well signposted."
         }
     },
@@ -2138,9 +2138,9 @@
             "reviews": 17,
             "photos": 11
         },
-        "snippet": "Muy bien conservado.\nFui fuera de hora y lo visitamos por nuestra cuenta. Pero a pesar de todo es f\u00e1cil de ver.",
+        "snippet": "Muy bien conservado.\nFui fuera de hora y lo visitamos por nuestra cuenta. Pero a pesar de todo es fácil de ver.",
         "extracted_snippet": {
-            "original": "Muy bien conservado.\nFui fuera de hora y lo visitamos por nuestra cuenta. Pero a pesar de todo es f\u00e1cil de ver.",
+            "original": "Muy bien conservado.\nFui fuera de hora y lo visitamos por nuestra cuenta. Pero a pesar de todo es fácil de ver.",
             "translated": "Very well preserved.\nI went after hours and we visited on our own. But despite everything it is easy to see."
         }
     },
@@ -2153,7 +2153,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHMUk3bmNnEAE",
         "user": {
-            "name": "Yolanda G\u00f3mez",
+            "name": "Yolanda Gómez",
             "link": "https://www.google.com/maps/contrib/108979540009036938777?hl=en",
             "contributor_id": "108979540009036938777",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLlNZrlU4wPkgK4MQAjsBn88zzBR2lvOT5rd3eS0E9_TicLKsnB=s120-c-rp-mo-ba4-br100",
@@ -2181,9 +2181,9 @@
             "reviews": 9,
             "photos": 1
         },
-        "snippet": "Un rato agradable, merece la pena la visita s\u00f3lo por charlar un rato con la encargada de vigilancia y dar un paseo. Nos ha explicado muy bien todo. Hay restos de muralla reconstruida, as\u00ed como de 3 viviendas celtas de planta rectangular, poco usuales. Molinos de piedra y muy buenas vistas a otros castros del territorio.",
+        "snippet": "Un rato agradable, merece la pena la visita sólo por charlar un rato con la encargada de vigilancia y dar un paseo. Nos ha explicado muy bien todo. Hay restos de muralla reconstruida, así como de 3 viviendas celtas de planta rectangular, poco usuales. Molinos de piedra y muy buenas vistas a otros castros del territorio.",
         "extracted_snippet": {
-            "original": "Un rato agradable, merece la pena la visita s\u00f3lo por charlar un rato con la encargada de vigilancia y dar un paseo. Nos ha explicado muy bien todo. Hay restos de muralla reconstruida, as\u00ed como de 3 viviendas celtas de planta rectangular, poco usuales. Molinos de piedra y muy buenas vistas a otros castros del territorio.",
+            "original": "Un rato agradable, merece la pena la visita sólo por charlar un rato con la encargada de vigilancia y dar un paseo. Nos ha explicado muy bien todo. Hay restos de muralla reconstruida, así como de 3 viviendas celtas de planta rectangular, poco usuales. Molinos de piedra y muy buenas vistas a otros castros del territorio.",
             "translated": "A pleasant time, it is worth the visit just to chat for a while with the security guard and take a walk. He explained everything to us very well. There are remains of a reconstructed wall, as well as 3 unusual Celtic houses with a rectangular plan. Stone mills and very good views of other hillforts in the territory."
         }
     },
@@ -2271,9 +2271,9 @@
             "reviews": 129,
             "photos": 1160
         },
-        "snippet": "Est\u00e1 bastante bien conservado, hay piedras hincadas defensivas, las murallas genial con su mamposter\u00eda, tiene varias entradas y se puede ver donde estar\u00edan las viviendas en escalones y unas vistas geniales del pantano.",
+        "snippet": "Está bastante bien conservado, hay piedras hincadas defensivas, las murallas genial con su mampostería, tiene varias entradas y se puede ver donde estarían las viviendas en escalones y unas vistas geniales del pantano.",
         "extracted_snippet": {
-            "original": "Est\u00e1 bastante bien conservado, hay piedras hincadas defensivas, las murallas genial con su mamposter\u00eda, tiene varias entradas y se puede ver donde estar\u00edan las viviendas en escalones y unas vistas geniales del pantano.",
+            "original": "Está bastante bien conservado, hay piedras hincadas defensivas, las murallas genial con su mampostería, tiene varias entradas y se puede ver donde estarían las viviendas en escalones y unas vistas geniales del pantano.",
             "translated": "It's quite well preserved, there are defensive upright stones, the walls are fantastic with their masonry, it has several entrances and you can see where the houses would have been on steps and some great views of the swamp."
         }
     },
@@ -2291,7 +2291,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNheWFPajdnRRAB",
         "user": {
-            "name": "Elisa Mar\u00eda Mart\u00edn G\u00f3mez",
+            "name": "Elisa María Martín Gómez",
             "link": "https://www.google.com/maps/contrib/116434784816812350899?hl=en",
             "contributor_id": "116434784816812350899",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUUorSQH13SRG9ffo-TnjLw0cPAbSSu4y_oFOQD95utsRLFoqHPnA=s120-c-rp-mo-ba3-br100",
@@ -2322,9 +2322,9 @@
             "reviews": 84,
             "photos": 1294
         },
-        "snippet": "Muy bonito para los amantes de las piedras,tiene su encanto el silencio el piar de los \u00e1guilas sus vuelos algo m\u00e1gico",
+        "snippet": "Muy bonito para los amantes de las piedras,tiene su encanto el silencio el piar de los águilas sus vuelos algo mágico",
         "extracted_snippet": {
-            "original": "Muy bonito para los amantes de las piedras,tiene su encanto el silencio el piar de los \u00e1guilas sus vuelos algo m\u00e1gico",
+            "original": "Muy bonito para los amantes de las piedras,tiene su encanto el silencio el piar de los águilas sus vuelos algo mágico",
             "translated": "Very beautiful for lovers of stones, the silence has its charm, the chirping of the eagles, their flights something magical"
         }
     },
@@ -2349,9 +2349,9 @@
             "reviews": 36,
             "photos": 18
         },
-        "snippet": "Sitio recomendable para los amantes de la historia, coincidimos con la vigilante del Castro y su perra Kira, fue super amable, nos resolvi\u00f3 todas nuestras dudas es fant\u00e1stico coincidir con gente tan maravillosa ..",
+        "snippet": "Sitio recomendable para los amantes de la historia, coincidimos con la vigilante del Castro y su perra Kira, fue super amable, nos resolvió todas nuestras dudas es fantástico coincidir con gente tan maravillosa ..",
         "extracted_snippet": {
-            "original": "Sitio recomendable para los amantes de la historia, coincidimos con la vigilante del Castro y su perra Kira, fue super amable, nos resolvi\u00f3 todas nuestras dudas es fant\u00e1stico coincidir con gente tan maravillosa ..",
+            "original": "Sitio recomendable para los amantes de la historia, coincidimos con la vigilante del Castro y su perra Kira, fue super amable, nos resolvió todas nuestras dudas es fantástico coincidir con gente tan maravillosa ..",
             "translated": "A recommended place for history lovers. We met the Castro security guard and her dog, Kira. She was super friendly and answered all our questions. It's fantastic to meet such wonderful people."
         }
     },
@@ -2393,7 +2393,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxLVp6RHFBRRAB",
         "user": {
-            "name": "Juli\u00e1n Mart\u00edn Derecho",
+            "name": "Julián Martín Derecho",
             "link": "https://www.google.com/maps/contrib/117199329329502850070?hl=en",
             "contributor_id": "117199329329502850070",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLRyU8dpho36ubyNdZe01bNnLFYyk7ZHVadLQYcPUptwZdQSQ=s120-c-rp-mo-br100",
@@ -2425,10 +2425,10 @@
             "reviews": 4,
             "photos": 4
         },
-        "snippet": "Cuna del protagonista de la novela \"\u00d3bila. La leyenda del vett\u00f3n\"",
+        "snippet": "Cuna del protagonista de la novela \"Óbila. La leyenda del vettón\"",
         "extracted_snippet": {
-            "original": "Cuna del protagonista de la novela \"\u00d3bila. La leyenda del vett\u00f3n\"",
-            "translated": "Cradle of the protagonist of the novel \"\u00d3bila. The legend of the vett\u00f3n\""
+            "original": "Cuna del protagonista de la novela \"Óbila. La leyenda del vettón\"",
+            "translated": "Cradle of the protagonist of the novel \"Óbila. The legend of the vettón\""
         }
     },
     "ChZDSUhNMG9nS0VJQ0FnSURxb09mUWRBEAE": {
@@ -2448,7 +2448,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxb09mUWRBEAE",
         "user": {
-            "name": "J\u00f6rge",
+            "name": "Jörge",
             "link": "https://www.google.com/maps/contrib/116540594324136935843?hl=en",
             "contributor_id": "116540594324136935843",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWXeWEXqdr5t3OlbRokb_Dhsg38mDGwuZo9JWUkx-spF0MuHs0=s120-c-rp-mo-ba8-br100",
@@ -2456,10 +2456,10 @@
             "reviews": 2100,
             "photos": 5380
         },
-        "snippet": "Se trata de un yacimiento datado entre el Bronce Final y la Edad del Hierro. Su construcci\u00f3n data del siglo VI al II a.C. Se conserva gran parte de la muralla y el campo de piedras hincadas que proteg\u00edan el poblado de posibles ataques. En su interior, es dif\u00edcil distinguir zonas, puesto que las excavaciones se realizaron hace casi 100 a\u00f1os, y no ha habido m\u00e1s campa\u00f1as que traten de reconstruir el lugar. A\u00fan as\u00ed, merece mucho la pena visitarlo, puesto que se trata de uno de los yacimientos m\u00e1s importantes del mundo de los pueblos vetones, unos pueblos celtas que habitaron la zona de Salamanca y \u00c1vila. El acceso al castro es sencillo, se puede subir con el coche, y la visita est\u00e1 acompa\u00f1ada de paneles informativos que explican el yacimiento",
+        "snippet": "Se trata de un yacimiento datado entre el Bronce Final y la Edad del Hierro. Su construcción data del siglo VI al II a.C. Se conserva gran parte de la muralla y el campo de piedras hincadas que protegían el poblado de posibles ataques. En su interior, es difícil distinguir zonas, puesto que las excavaciones se realizaron hace casi 100 años, y no ha habido más campañas que traten de reconstruir el lugar. Aún así, merece mucho la pena visitarlo, puesto que se trata de uno de los yacimientos más importantes del mundo de los pueblos vetones, unos pueblos celtas que habitaron la zona de Salamanca y Ávila. El acceso al castro es sencillo, se puede subir con el coche, y la visita está acompañada de paneles informativos que explican el yacimiento",
         "extracted_snippet": {
-            "original": "Se trata de un yacimiento datado entre el Bronce Final y la Edad del Hierro. Su construcci\u00f3n data del siglo VI al II a.C. Se conserva gran parte de la muralla y el campo de piedras hincadas que proteg\u00edan el poblado de posibles ataques. En su interior, es dif\u00edcil distinguir zonas, puesto que las excavaciones se realizaron hace casi 100 a\u00f1os, y no ha habido m\u00e1s campa\u00f1as que traten de reconstruir el lugar. A\u00fan as\u00ed, merece mucho la pena visitarlo, puesto que se trata de uno de los yacimientos m\u00e1s importantes del mundo de los pueblos vetones, unos pueblos celtas que habitaron la zona de Salamanca y \u00c1vila. El acceso al castro es sencillo, se puede subir con el coche, y la visita est\u00e1 acompa\u00f1ada de paneles informativos que explican el yacimiento",
-            "translated": "It is a site dated between the Late Bronze Age and the Iron Age. Its construction dates back to the 6th to 2nd century BC. A large part of the wall and the field of driven stones that protected the town from possible attacks are preserved. Inside, it is difficult to distinguish areas, since the excavations were carried out almost 100 years ago, and there have been no more campaigns trying to reconstruct the place. Even so, it is very worth visiting, since it is one of the most important sites in the world of the Veton peoples, Celtic peoples who inhabited the area of \u200b\u200bSalamanca and \u00c1vila. Access to the fort is easy, you can go up by car, and the visit is accompanied by information panels that explain the site."
+            "original": "Se trata de un yacimiento datado entre el Bronce Final y la Edad del Hierro. Su construcción data del siglo VI al II a.C. Se conserva gran parte de la muralla y el campo de piedras hincadas que protegían el poblado de posibles ataques. En su interior, es difícil distinguir zonas, puesto que las excavaciones se realizaron hace casi 100 años, y no ha habido más campañas que traten de reconstruir el lugar. Aún así, merece mucho la pena visitarlo, puesto que se trata de uno de los yacimientos más importantes del mundo de los pueblos vetones, unos pueblos celtas que habitaron la zona de Salamanca y Ávila. El acceso al castro es sencillo, se puede subir con el coche, y la visita está acompañada de paneles informativos que explican el yacimiento",
+            "translated": "It is a site dated between the Late Bronze Age and the Iron Age. Its construction dates back to the 6th to 2nd century BC. A large part of the wall and the field of driven stones that protected the town from possible attacks are preserved. Inside, it is difficult to distinguish areas, since the excavations were carried out almost 100 years ago, and there have been no more campaigns trying to reconstruct the place. Even so, it is very worth visiting, since it is one of the most important sites in the world of the Veton peoples, Celtic peoples who inhabited the area of ​​Salamanca and Ávila. Access to the fort is easy, you can go up by car, and the visit is accompanied by information panels that explain the site."
         }
     },
     "ChZDSUhNMG9nS0VJQ0FnSUNxNC1mbGV3EAE": {
@@ -2486,10 +2486,10 @@
             "reviews": 561,
             "photos": 3302
         },
-        "snippet": "Para todo aquel aficionado a la arqueolog\u00eda, este debe ser un lugar de obligada visita. Y es que se trata de uno de los poblados celtas (en concreto del pueblo vet\u00f3n) m\u00e1s importantes de la Pen\u00ednsula. Llama la atenci\u00f3n la parte de la muralla que da entrada a la que fue el poblamiento. Quiz\u00e1s a un lego en la materia no le impresione mucho, pero hay que entender que estamos hablando de un lugar que se habit\u00f3 hace 3000-2500 a\u00f1os aprox. Adem\u00e1s, s\u00f3lo con disfrutar del paraje ya merece la pena. Este castro se sit\u00faa en un promontorio justo encima de la presa del Embalse de las Cogotas, con lo que las vistas son muy bonitas (especialmente si el pantano est\u00e1 lleno). La propia presa del embalse es un lugar interesante, tiene un aparcamiento habilitado y un mirador. Si lleg\u00e1is desde la carretera de Adanero a \u00c1vila, s\u00f3lo ten\u00e9is que dejar aqu\u00ed el coche, cruzar andando la presa y en cinco minutos de subida estar\u00e9is en el castro.",
+        "snippet": "Para todo aquel aficionado a la arqueología, este debe ser un lugar de obligada visita. Y es que se trata de uno de los poblados celtas (en concreto del pueblo vetón) más importantes de la Península. Llama la atención la parte de la muralla que da entrada a la que fue el poblamiento. Quizás a un lego en la materia no le impresione mucho, pero hay que entender que estamos hablando de un lugar que se habitó hace 3000-2500 años aprox. Además, sólo con disfrutar del paraje ya merece la pena. Este castro se sitúa en un promontorio justo encima de la presa del Embalse de las Cogotas, con lo que las vistas son muy bonitas (especialmente si el pantano está lleno). La propia presa del embalse es un lugar interesante, tiene un aparcamiento habilitado y un mirador. Si llegáis desde la carretera de Adanero a Ávila, sólo tenéis que dejar aquí el coche, cruzar andando la presa y en cinco minutos de subida estaréis en el castro.",
         "extracted_snippet": {
-            "original": "Para todo aquel aficionado a la arqueolog\u00eda, este debe ser un lugar de obligada visita. Y es que se trata de uno de los poblados celtas (en concreto del pueblo vet\u00f3n) m\u00e1s importantes de la Pen\u00ednsula. Llama la atenci\u00f3n la parte de la muralla que da entrada a la que fue el poblamiento. Quiz\u00e1s a un lego en la materia no le impresione mucho, pero hay que entender que estamos hablando de un lugar que se habit\u00f3 hace 3000-2500 a\u00f1os aprox. Adem\u00e1s, s\u00f3lo con disfrutar del paraje ya merece la pena. Este castro se sit\u00faa en un promontorio justo encima de la presa del Embalse de las Cogotas, con lo que las vistas son muy bonitas (especialmente si el pantano est\u00e1 lleno). La propia presa del embalse es un lugar interesante, tiene un aparcamiento habilitado y un mirador. Si lleg\u00e1is desde la carretera de Adanero a \u00c1vila, s\u00f3lo ten\u00e9is que dejar aqu\u00ed el coche, cruzar andando la presa y en cinco minutos de subida estar\u00e9is en el castro.",
-            "translated": "For any archaeology enthusiast, this must-see site. It's one of the most important Celtic settlements (specifically, those of the Vetton people) on the Iberian Peninsula. The section of the wall that leads into what was once the settlement is striking. Perhaps a layman won't be very impressed, but you have to understand that we're talking about a place that was inhabited approximately 3,000-2,500 years ago. Furthermore, just enjoying the scenery is worthwhile. This fort is located on a promontory just above the Cogotas Reservoir dam, so the views are very beautiful (especially when the reservoir is full). The reservoir dam itself is an interesting spot; it has a designated parking lot and a viewing point. If you arrive from the Adanero to \u00c1vila road, just leave your car here, walk across the dam, and in a five-minute climb, you'll be at the fort."
+            "original": "Para todo aquel aficionado a la arqueología, este debe ser un lugar de obligada visita. Y es que se trata de uno de los poblados celtas (en concreto del pueblo vetón) más importantes de la Península. Llama la atención la parte de la muralla que da entrada a la que fue el poblamiento. Quizás a un lego en la materia no le impresione mucho, pero hay que entender que estamos hablando de un lugar que se habitó hace 3000-2500 años aprox. Además, sólo con disfrutar del paraje ya merece la pena. Este castro se sitúa en un promontorio justo encima de la presa del Embalse de las Cogotas, con lo que las vistas son muy bonitas (especialmente si el pantano está lleno). La propia presa del embalse es un lugar interesante, tiene un aparcamiento habilitado y un mirador. Si llegáis desde la carretera de Adanero a Ávila, sólo tenéis que dejar aquí el coche, cruzar andando la presa y en cinco minutos de subida estaréis en el castro.",
+            "translated": "For any archaeology enthusiast, this must-see site. It's one of the most important Celtic settlements (specifically, those of the Vetton people) on the Iberian Peninsula. The section of the wall that leads into what was once the settlement is striking. Perhaps a layman won't be very impressed, but you have to understand that we're talking about a place that was inhabited approximately 3,000-2,500 years ago. Furthermore, just enjoying the scenery is worthwhile. This fort is located on a promontory just above the Cogotas Reservoir dam, so the views are very beautiful (especially when the reservoir is full). The reservoir dam itself is an interesting spot; it has a designated parking lot and a viewing point. If you arrive from the Adanero to Ávila road, just leave your car here, walk across the dam, and in a five-minute climb, you'll be at the fort."
         }
     },
     "ChZDSUhNMG9nS0VJQ0FnSUNxck9XeFpBEAE": {
@@ -2506,7 +2506,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxck9XeFpBEAE",
         "user": {
-            "name": "Maria Rosa S\u00e1nchez",
+            "name": "Maria Rosa Sánchez",
             "link": "https://www.google.com/maps/contrib/108359392194469588809?hl=en",
             "contributor_id": "108359392194469588809",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXh63dV3I9EtsvytSGtMwhOlmLdvYS0Ink6w2fOcOad4SY903YY=s120-c-rp-mo-ba5-br100",
@@ -2514,9 +2514,9 @@
             "reviews": 114,
             "photos": 1190
         },
-        "snippet": "Oportunidad para adem\u00e1s de visitar el Castro, contemplar las vistas del embalse. En primavera, entorno adornado con amapolas, piornos, tomillo...",
+        "snippet": "Oportunidad para además de visitar el Castro, contemplar las vistas del embalse. En primavera, entorno adornado con amapolas, piornos, tomillo...",
         "extracted_snippet": {
-            "original": "Oportunidad para adem\u00e1s de visitar el Castro, contemplar las vistas del embalse. En primavera, entorno adornado con amapolas, piornos, tomillo...",
+            "original": "Oportunidad para además de visitar el Castro, contemplar las vistas del embalse. En primavera, entorno adornado con amapolas, piornos, tomillo...",
             "translated": "A chance to visit the Castro and admire the views of the reservoir. In spring, the surroundings are adorned with poppies, broom, and thyme."
         }
     },
@@ -2601,9 +2601,9 @@
             "reviews": 47,
             "photos": 0
         },
-        "snippet": "Un lug\u00e1r impactante, deberia contar con mas paneles informativos para el visitante",
+        "snippet": "Un lugár impactante, deberia contar con mas paneles informativos para el visitante",
         "extracted_snippet": {
-            "original": "Un lug\u00e1r impactante, deberia contar con mas paneles informativos para el visitante",
+            "original": "Un lugár impactante, deberia contar con mas paneles informativos para el visitante",
             "translated": "A striking place, it should have more information panels for visitors."
         }
     },
@@ -2661,7 +2661,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLeFp6QjNnRRAB",
         "user": {
-            "name": "Andreas Kr\u00fcger",
+            "name": "Andreas Krüger",
             "link": "https://www.google.com/maps/contrib/109530245561777131782?hl=en",
             "contributor_id": "109530245561777131782",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVcWseGQFGoYUTxv6lKr3H2mek8zIKnR4t8-mNC3OfmD_VT74ldGQ=s120-c-rp-mo-ba5-br100",
@@ -2669,9 +2669,9 @@
             "reviews": 143,
             "photos": 826
         },
-        "snippet": "Sehr sch\u00f6ne Lage oberhalb des gleichnamigen Stausee.\nFahren bis zum Castro ist m\u00f6glich aber nicht aus Richtung Stausee. Grosse Anlage die schon beeindruckt.",
+        "snippet": "Sehr schöne Lage oberhalb des gleichnamigen Stausee.\nFahren bis zum Castro ist möglich aber nicht aus Richtung Stausee. Grosse Anlage die schon beeindruckt.",
         "extracted_snippet": {
-            "original": "Sehr sch\u00f6ne Lage oberhalb des gleichnamigen Stausee.\nFahren bis zum Castro ist m\u00f6glich aber nicht aus Richtung Stausee. Grosse Anlage die schon beeindruckt.",
+            "original": "Sehr schöne Lage oberhalb des gleichnamigen Stausee.\nFahren bis zum Castro ist möglich aber nicht aus Richtung Stausee. Grosse Anlage die schon beeindruckt.",
             "translated": "Very nice location above the reservoir of the same name.\nDriving to the Castro is possible but not from the direction of the reservoir. Large facility that is already impressive."
         }
     },
@@ -2696,9 +2696,9 @@
             "reviews": 117,
             "photos": 64
         },
-        "snippet": "Paseo tranquilo y de f\u00e1cil acceso.",
+        "snippet": "Paseo tranquilo y de fácil acceso.",
         "extracted_snippet": {
-            "original": "Paseo tranquilo y de f\u00e1cil acceso.",
+            "original": "Paseo tranquilo y de fácil acceso.",
             "translated": "Quiet and easily accessible walk."
         }
     },
@@ -2746,7 +2746,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5X3F6d2dnRRAB",
         "user": {
-            "name": "Jes\u00fas",
+            "name": "Jesús",
             "link": "https://www.google.com/maps/contrib/116503744383885801078?hl=en",
             "contributor_id": "116503744383885801078",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXmqbxq2IVRDjBC-G0UazYugJ7CLP6nvySyh13GC4Avd-0lm78O=s120-c-rp-mo-ba4-br100",
@@ -2770,7 +2770,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5bktIRWRBEAE",
         "user": {
-            "name": "Ana I. Jim\u00e9nez Nieto",
+            "name": "Ana I. Jiménez Nieto",
             "link": "https://www.google.com/maps/contrib/117057368568840741686?hl=en",
             "contributor_id": "117057368568840741686",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK8OJigKcDwNgqUz88hb2HoFdkf35XBq341HPAmg4GMo8skog=s120-c-rp-mo-ba4-br100",
@@ -2793,7 +2793,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5Ml8zTFF3EAE",
         "user": {
-            "name": "Luis J. Mo\u00f1ino Modelspain",
+            "name": "Luis J. Moñino Modelspain",
             "link": "https://www.google.com/maps/contrib/109931651479878598615?hl=en",
             "contributor_id": "109931651479878598615",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWMYuJ1qvH4BI9g2-jOMkkal9xuYjHwlLBWo2P_7Fd-kaNvOWE=s120-c-rp-mo-ba6-br100",
@@ -2842,10 +2842,10 @@
             "reviews": 20,
             "photos": 29
         },
-        "snippet": "Entorno natural perfecto muy cerca de \u00c1vila, ideal para pasar la ma\u00f1ana con ni\u00f1os (o sin ellos).\nSi llegas en coche hasta la presa, hay una zona de aparcamiento a unos 800m del inicio de la ruta al Castro desde este lado. En mi opini\u00f3n, se echa en falta un poquito m\u00e1s de se\u00f1alizaci\u00f3n.\nLas vistas al embalse desde lo alto son estupendas.",
+        "snippet": "Entorno natural perfecto muy cerca de Ávila, ideal para pasar la mañana con niños (o sin ellos).\nSi llegas en coche hasta la presa, hay una zona de aparcamiento a unos 800m del inicio de la ruta al Castro desde este lado. En mi opinión, se echa en falta un poquito más de señalización.\nLas vistas al embalse desde lo alto son estupendas.",
         "extracted_snippet": {
-            "original": "Entorno natural perfecto muy cerca de \u00c1vila, ideal para pasar la ma\u00f1ana con ni\u00f1os (o sin ellos).\nSi llegas en coche hasta la presa, hay una zona de aparcamiento a unos 800m del inicio de la ruta al Castro desde este lado. En mi opini\u00f3n, se echa en falta un poquito m\u00e1s de se\u00f1alizaci\u00f3n.\nLas vistas al embalse desde lo alto son estupendas.",
-            "translated": "A perfect natural setting very close to \u00c1vila, ideal for spending the morning with (or without) children.\nIf you arrive by car at the dam, there's a parking area about 800 meters from the start of the Castro trail on this side. In my opinion, it could use a little more signage.\nThe views of the reservoir from the top are fantastic."
+            "original": "Entorno natural perfecto muy cerca de Ávila, ideal para pasar la mañana con niños (o sin ellos).\nSi llegas en coche hasta la presa, hay una zona de aparcamiento a unos 800m del inicio de la ruta al Castro desde este lado. En mi opinión, se echa en falta un poquito más de señalización.\nLas vistas al embalse desde lo alto son estupendas.",
+            "translated": "A perfect natural setting very close to Ávila, ideal for spending the morning with (or without) children.\nIf you arrive by car at the dam, there's a parking area about 800 meters from the start of the Castro trail on this side. In my opinion, it could use a little more signage.\nThe views of the reservoir from the top are fantastic."
         }
     },
     "ChZDSUhNMG9nS0VJQ0FnSUN5dklMVkVnEAE": {
@@ -2874,7 +2874,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5b0xyQjVBRRAB",
         "user": {
-            "name": "Jes\u00fas Jim\u00e9nez Hern\u00e1ndez",
+            "name": "Jesús Jiménez Hernández",
             "link": "https://www.google.com/maps/contrib/114065694580180690071?hl=en",
             "contributor_id": "114065694580180690071",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUh3-4knDhdxF8hqDtqIY40OOX4nTtr7n8gnRlb6YEa-iCwbLY=s120-c-rp-mo-br100",
@@ -2891,7 +2891,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTamVlMk13EAE",
         "user": {
-            "name": "Alberto P\u00e9rez",
+            "name": "Alberto Pérez",
             "link": "https://www.google.com/maps/contrib/105544594644237365661?hl=en",
             "contributor_id": "105544594644237365661",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVcDuWBdpW_mKRJwQxfIYWLicj0TIIbtxMyA2Tz_8sW4aLLzz3p=s120-c-rp-mo-ba3-br100",
@@ -2966,9 +2966,9 @@
             "reviews": 618,
             "photos": 2702
         },
-        "snippet": "Magnifico sitio para perderse. Sitio muy tranquilo. El acceso es complicado ya que son por caminos de tierra o por la presa aunque tienes que dejar el coche a 1 km. Sitio hist\u00f3rico y con vistas tremendas. Ideal para rutas y senderismo. Tiene seis letreros que te explican un poco el concepto y la historia del lugar.",
+        "snippet": "Magnifico sitio para perderse. Sitio muy tranquilo. El acceso es complicado ya que son por caminos de tierra o por la presa aunque tienes que dejar el coche a 1 km. Sitio histórico y con vistas tremendas. Ideal para rutas y senderismo. Tiene seis letreros que te explican un poco el concepto y la historia del lugar.",
         "extracted_snippet": {
-            "original": "Magnifico sitio para perderse. Sitio muy tranquilo. El acceso es complicado ya que son por caminos de tierra o por la presa aunque tienes que dejar el coche a 1 km. Sitio hist\u00f3rico y con vistas tremendas. Ideal para rutas y senderismo. Tiene seis letreros que te explican un poco el concepto y la historia del lugar.",
+            "original": "Magnifico sitio para perderse. Sitio muy tranquilo. El acceso es complicado ya que son por caminos de tierra o por la presa aunque tienes que dejar el coche a 1 km. Sitio histórico y con vistas tremendas. Ideal para rutas y senderismo. Tiene seis letreros que te explican un poco el concepto y la historia del lugar.",
             "translated": "A magnificent place to get lost. Very peaceful. Access is difficult, as it's accessed via dirt roads or by the dam, although you have to leave your car 1 km away. This is a historic site with tremendous views. Ideal for hiking and walking. It has six signs that explain the site's history and significance."
         }
     },
@@ -2992,9 +2992,9 @@
             "reviews": 27,
             "photos": 10
         },
-        "snippet": "Muy buenas vistas. Arqueol\u00f3gicamente muy interesante. Leer sobre el sitio antes de ir.",
+        "snippet": "Muy buenas vistas. Arqueológicamente muy interesante. Leer sobre el sitio antes de ir.",
         "extracted_snippet": {
-            "original": "Muy buenas vistas. Arqueol\u00f3gicamente muy interesante. Leer sobre el sitio antes de ir.",
+            "original": "Muy buenas vistas. Arqueológicamente muy interesante. Leer sobre el sitio antes de ir.",
             "translated": "Very good views. Archaeologically very interesting. Read about the site before you go."
         }
     },
@@ -3007,7 +3007,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpdHR6ZGVBEAE",
         "user": {
-            "name": "Javier Santos Garc\u00eda - Minguill\u00e1n",
+            "name": "Javier Santos García - Minguillán",
             "link": "https://www.google.com/maps/contrib/109214818754837566829?hl=en",
             "contributor_id": "109214818754837566829",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKU-bJFptUOVAb2PAqX4AXQQDUn3JUPphfBh6hlsDfpJCqzVQ=s120-c-rp-mo-ba2-br100",
@@ -3015,10 +3015,10 @@
             "reviews": 23,
             "photos": 4
         },
-        "snippet": "Excelentes vistas \ud83d\ude0a",
+        "snippet": "Excelentes vistas 😊",
         "extracted_snippet": {
-            "original": "Excelentes vistas \ud83d\ude0a",
-            "translated": "Excellent views \ud83d\ude0a"
+            "original": "Excelentes vistas 😊",
+            "translated": "Excellent views 😊"
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSURpX09Ydjd3RRAB": {
@@ -3056,7 +3056,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpbExEbEF3EAE",
         "user": {
-            "name": "Jos\u00e9 Manuel Malheiro-Reym\u00e3o",
+            "name": "José Manuel Malheiro-Reymão",
             "link": "https://www.google.com/maps/contrib/104845737949783809934?hl=en",
             "contributor_id": "104845737949783809934",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVhKE2YuP7MEUIOdxusgiLyfJzIfmelGgTo1_ic3eCzD0q77odF=s120-c-rp-mo-br100",
@@ -3110,7 +3110,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpc0tPN2x3RRAB",
         "user": {
-            "name": "Arantxa P\u00e9rez",
+            "name": "Arantxa Pérez",
             "link": "https://www.google.com/maps/contrib/111376779206469367934?hl=en",
             "contributor_id": "111376779206469367934",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX1msZqD0WqZ_VWcf8gp6_fTcEP92hBNSNY7LQvwtRc0aWSt_Qp=s120-c-rp-mo-br100",
@@ -3127,7 +3127,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpaV9qc21BRRAB",
         "user": {
-            "name": "Miguel Angel Ram\u00edrez Ortega",
+            "name": "Miguel Angel Ramírez Ortega",
             "link": "https://www.google.com/maps/contrib/103730910993129606007?hl=en",
             "contributor_id": "103730910993129606007",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUfCsjxFqu3envbLXDHQYC9XhvZMta7g4I1ApG--zUMBEFjLXe5=s120-c-rp-mo-ba6-br100",
@@ -3194,10 +3194,10 @@
             "reviews": 74,
             "photos": 99
         },
-        "snippet": "Interesante. Buenas vistas. Tambi\u00e9n est\u00e1 bien conocer el aula d interpretaci\u00f3n en Carde\u00f1osa",
+        "snippet": "Interesante. Buenas vistas. También está bien conocer el aula d interpretación en Cardeñosa",
         "extracted_snippet": {
-            "original": "Interesante. Buenas vistas. Tambi\u00e9n est\u00e1 bien conocer el aula d interpretaci\u00f3n en Carde\u00f1osa",
-            "translated": "Interesting. Good views. Also worth a visit is the interpretation room in Carde\u00f1osa."
+            "original": "Interesante. Buenas vistas. También está bien conocer el aula d interpretación en Cardeñosa",
+            "translated": "Interesting. Good views. Also worth a visit is the interpretation room in Cardeñosa."
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSURDOU5XcDNRRRAB": {
@@ -3216,10 +3216,10 @@
             "reviews": 4,
             "photos": 12
         },
-        "snippet": "\u00a1Mucho ojo con el acceso! Maps te puede llevar al de la presa y ah\u00ed hay que subir a pie por la ladera hasta el castro. Para llegar en coche, hay que hacerlo desde Carde\u00f1osa, a trav\u00e9s de una buena pista que sale desde la carretera a pocos kil\u00f3metros del pueblo.\nLa visita merece la pena para los aficionados a la historia y a los paisajes. La muralla y las puertas est\u00e1n bien reconstruidas. M\u00e1s all\u00e1 de eso, quedan muy pocos vestigios. No pudimos ver el aula arqueol\u00f3gica.",
+        "snippet": "¡Mucho ojo con el acceso! Maps te puede llevar al de la presa y ahí hay que subir a pie por la ladera hasta el castro. Para llegar en coche, hay que hacerlo desde Cardeñosa, a través de una buena pista que sale desde la carretera a pocos kilómetros del pueblo.\nLa visita merece la pena para los aficionados a la historia y a los paisajes. La muralla y las puertas están bien reconstruidas. Más allá de eso, quedan muy pocos vestigios. No pudimos ver el aula arqueológica.",
         "extracted_snippet": {
-            "original": "\u00a1Mucho ojo con el acceso! Maps te puede llevar al de la presa y ah\u00ed hay que subir a pie por la ladera hasta el castro. Para llegar en coche, hay que hacerlo desde Carde\u00f1osa, a trav\u00e9s de una buena pista que sale desde la carretera a pocos kil\u00f3metros del pueblo.\nLa visita merece la pena para los aficionados a la historia y a los paisajes. La muralla y las puertas est\u00e1n bien reconstruidas. M\u00e1s all\u00e1 de eso, quedan muy pocos vestigios. No pudimos ver el aula arqueol\u00f3gica.",
-            "translated": "Be careful with the access! Maps can direct you to the dam, and from there you have to hike up the hillside to the fort. To get there by car, you have to go from Carde\u00f1osa, via a good track that leaves the highway a few kilometers from the village.\nThe visit is worthwhile for history and landscape buffs. The wall and gates are well reconstructed. Beyond that, very few vestiges remain. We were unable to see the archaeological classroom."
+            "original": "¡Mucho ojo con el acceso! Maps te puede llevar al de la presa y ahí hay que subir a pie por la ladera hasta el castro. Para llegar en coche, hay que hacerlo desde Cardeñosa, a través de una buena pista que sale desde la carretera a pocos kilómetros del pueblo.\nLa visita merece la pena para los aficionados a la historia y a los paisajes. La muralla y las puertas están bien reconstruidas. Más allá de eso, quedan muy pocos vestigios. No pudimos ver el aula arqueológica.",
+            "translated": "Be careful with the access! Maps can direct you to the dam, and from there you have to hike up the hillside to the fort. To get there by car, you have to go from Cardeñosa, via a good track that leaves the highway a few kilometers from the village.\nThe visit is worthwhile for history and landscape buffs. The wall and gates are well reconstructed. Beyond that, very few vestiges remain. We were unable to see the archaeological classroom."
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSURDLU9IQ3pnRRAB": {
@@ -3239,9 +3239,9 @@
             "reviews": 37,
             "photos": 31
         },
-        "snippet": "Este lugar me encanta por que tiene muy buenas vistas y para el turismo es genial t deber\u00eda de hacer muchas cosas m\u00e1s",
+        "snippet": "Este lugar me encanta por que tiene muy buenas vistas y para el turismo es genial t debería de hacer muchas cosas más",
         "extracted_snippet": {
-            "original": "Este lugar me encanta por que tiene muy buenas vistas y para el turismo es genial t deber\u00eda de hacer muchas cosas m\u00e1s",
+            "original": "Este lugar me encanta por que tiene muy buenas vistas y para el turismo es genial t debería de hacer muchas cosas más",
             "translated": "I love this place because it has great views and it's great for tourism and should do many more things."
         }
     },
@@ -3254,7 +3254,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDNkx1Rl9RRRAB",
         "user": {
-            "name": "Eduardo S\u00e1nchez Arroyo",
+            "name": "Eduardo Sánchez Arroyo",
             "link": "https://www.google.com/maps/contrib/100738197894399224145?hl=en",
             "contributor_id": "100738197894399224145",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXNY_C0qK8su86RwEPegIYMeKki1u6Ar20Qx9DgS0Inp5E5GBNp=s120-c-rp-mo-br100",
@@ -3289,7 +3289,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDdl9MUzdnRRAB",
         "user": {
-            "name": "Ramiro Mu\u00f1oz",
+            "name": "Ramiro Muñoz",
             "link": "https://www.google.com/maps/contrib/104130926348062186057?hl=en",
             "contributor_id": "104130926348062186057",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLAmm6kfRldM3_BnqflKzoJ2AMVWJV0ZVgO1oRo1b6wz9ERhvgl=s120-c-rp-mo-ba3-br100",
@@ -3343,7 +3343,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDbGRpTzhBRRAB",
         "user": {
-            "name": "Josu\u00e9 del Peso",
+            "name": "Josué del Peso",
             "link": "https://www.google.com/maps/contrib/110755649560142039267?hl=en",
             "contributor_id": "110755649560142039267",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWnWiV1_K5CyRn0d9ufkten0e21h3eak7MuaDe8nDJJhmgdc3jx=s120-c-rp-mo-ba2-br100",
@@ -3369,9 +3369,9 @@
             "reviews": 8,
             "photos": 1
         },
-        "snippet": "Paisaje precioso, buena excursi\u00f3n desde , Avila",
+        "snippet": "Paisaje precioso, buena excursión desde , Avila",
         "extracted_snippet": {
-            "original": "Paisaje precioso, buena excursi\u00f3n desde , Avila",
+            "original": "Paisaje precioso, buena excursión desde , Avila",
             "translated": "Beautiful scenery, good excursion from Avila"
         }
     },
@@ -3414,9 +3414,9 @@
             "reviews": 26,
             "photos": 0
         },
-        "snippet": "Si lees los carteles informativos se entiende muy bien qu\u00e9 es el castro del s V a. C. y c\u00f3mo se defend\u00edan y viv\u00edan. Adem\u00e1s, la vista sobre el embalse de Las Cogotas es preciosa. Un bonito paseo.",
+        "snippet": "Si lees los carteles informativos se entiende muy bien qué es el castro del s V a. C. y cómo se defendían y vivían. Además, la vista sobre el embalse de Las Cogotas es preciosa. Un bonito paseo.",
         "extracted_snippet": {
-            "original": "Si lees los carteles informativos se entiende muy bien qu\u00e9 es el castro del s V a. C. y c\u00f3mo se defend\u00edan y viv\u00edan. Adem\u00e1s, la vista sobre el embalse de Las Cogotas es preciosa. Un bonito paseo.",
+            "original": "Si lees los carteles informativos se entiende muy bien qué es el castro del s V a. C. y cómo se defendían y vivían. Además, la vista sobre el embalse de Las Cogotas es preciosa. Un bonito paseo.",
             "translated": "If you read the information signs, you'll understand exactly what the 5th-century BC fort is and how they defended and lived. The view over the Las Cogotas reservoir is also beautiful. A lovely walk."
         }
     },
@@ -3472,9 +3472,9 @@
             "reviews": 152,
             "photos": 2775
         },
-        "snippet": "Merece la pena pasear por \u00e9l",
+        "snippet": "Merece la pena pasear por él",
         "extracted_snippet": {
-            "original": "Merece la pena pasear por \u00e9l",
+            "original": "Merece la pena pasear por él",
             "translated": "It is worth walking through it"
         }
     },
@@ -3490,7 +3490,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDeUxuZkdnEAE",
         "user": {
-            "name": "ROSA M\u00aa SANCHEZ SANTOS",
+            "name": "ROSA Mª SANCHEZ SANTOS",
             "link": "https://www.google.com/maps/contrib/103826815383580049817?hl=en",
             "contributor_id": "103826815383580049817",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVZhFqVAjbM7c1JYPSb1mG6W4Gh2KKuVtZTIDyKZzCG-shcbLzb5w=s120-c-rp-mo-ba4-br100",
@@ -3513,7 +3513,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4M00zSlZREAE",
         "user": {
-            "name": "Jesus V\u00e1zquez Capel",
+            "name": "Jesus Vázquez Capel",
             "link": "https://www.google.com/maps/contrib/107527946582457734923?hl=en",
             "contributor_id": "107527946582457734923",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXpVFMV-V_vOvCNHGhd8MUFi8uJzt4izrR-GcqWx2xmGrxxZk4=s120-c-rp-mo-ba6-br100",
@@ -3521,9 +3521,9 @@
             "reviews": 328,
             "photos": 2619
         },
-        "snippet": "Me encant\u00f3 el lugar, perfecto para hacer senderismo, ir en bici o simplemente para tomar un poco de aire puro y fresco.",
+        "snippet": "Me encantó el lugar, perfecto para hacer senderismo, ir en bici o simplemente para tomar un poco de aire puro y fresco.",
         "extracted_snippet": {
-            "original": "Me encant\u00f3 el lugar, perfecto para hacer senderismo, ir en bici o simplemente para tomar un poco de aire puro y fresco.",
+            "original": "Me encantó el lugar, perfecto para hacer senderismo, ir en bici o simplemente para tomar un poco de aire puro y fresco.",
             "translated": "I loved the place, perfect for hiking, biking, or just getting some fresh air."
         }
     },
@@ -3554,7 +3554,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjallmMm13RRAB",
         "user": {
-            "name": "Fernando J. \u00c1lvarez del R\u00edo",
+            "name": "Fernando J. Álvarez del Río",
             "link": "https://www.google.com/maps/contrib/113133780332022952724?hl=en",
             "contributor_id": "113133780332022952724",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJUrOcjEkzytoq3Y17KekBggviTjSu1sXKe6YHXK-B9KPhMt6sY=s120-c-rp-mo-ba2-br100",
@@ -3595,7 +3595,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzLTZUQ193RRAB",
         "user": {
-            "name": "Adolfo Legido D\u00edaz",
+            "name": "Adolfo Legido Díaz",
             "link": "https://www.google.com/maps/contrib/116655602020691157568?hl=en",
             "contributor_id": "116655602020691157568",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKRPZLc7lTRpY-xs9J_RHLzjPug5do5KXw20RlRSoRHTUHnbQ=s120-c-rp-mo-br100",
@@ -3630,7 +3630,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzb2V2a0dREAE",
         "user": {
-            "name": "Fernando G\u00f3mez",
+            "name": "Fernando Gómez",
             "link": "https://www.google.com/maps/contrib/104627385285260692563?hl=en",
             "contributor_id": "104627385285260692563",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLhzi7Mrm5Z1Bx5EA_vpNfqYOvqzG7dthbnkC50y6KYqdQvRw=s120-c-rp-mo-ba5-br100",
@@ -3679,9 +3679,9 @@
             "reviews": 93,
             "photos": 358
         },
-        "snippet": "Impresionante que tengamos esto y no sea conocido, los paneles informativos est\u00e1n bien pero se puede mejorar. Y en cuanto a la forma de vida y las construcciones, que vuele la imaginacion",
+        "snippet": "Impresionante que tengamos esto y no sea conocido, los paneles informativos están bien pero se puede mejorar. Y en cuanto a la forma de vida y las construcciones, que vuele la imaginacion",
         "extracted_snippet": {
-            "original": "Impresionante que tengamos esto y no sea conocido, los paneles informativos est\u00e1n bien pero se puede mejorar. Y en cuanto a la forma de vida y las construcciones, que vuele la imaginacion",
+            "original": "Impresionante que tengamos esto y no sea conocido, los paneles informativos están bien pero se puede mejorar. Y en cuanto a la forma de vida y las construcciones, que vuele la imaginacion",
             "translated": "It's impressive that we have this and it's not widely known. The information panels are good, but they could be improved. And as for the lifestyle and buildings, let your imagination run wild."
         }
     },
@@ -3717,7 +3717,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNaTRHeWZnEAE",
         "user": {
-            "name": "oscar madro\u00f1o",
+            "name": "oscar madroño",
             "link": "https://www.google.com/maps/contrib/109772032856053924618?hl=en",
             "contributor_id": "109772032856053924618",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLnFK5cW7r4RBasQidntBAzQ_HpZh60GP-7RtDAR11Eozat9w=s120-c-rp-mo-ba2-br100",
@@ -3758,7 +3758,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNMXZ5Z0l3EAE",
         "user": {
-            "name": "Alfonso D\u00edez",
+            "name": "Alfonso Díez",
             "link": "https://www.google.com/maps/contrib/110360945429748492969?hl=en",
             "contributor_id": "110360945429748492969",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXBXxxBrisxyuaw0yaN5jnVKUWutddwJZ3DEC3o_LTQ0zVqSX8=s120-c-rp-mo-ba2-br100",
@@ -3840,7 +3840,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNbnNuOUlBEAE",
         "user": {
-            "name": "Javier Mart\u00edn L\u00f3pez",
+            "name": "Javier Martín López",
             "link": "https://www.google.com/maps/contrib/104991856635794482553?hl=en",
             "contributor_id": "104991856635794482553",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXkku777HCpXn7Is0oRGgiIc-vY4r228Ih0xxLcC5B4bKPdYo4J=s120-c-rp-mo-ba4-br100",
@@ -3884,9 +3884,9 @@
             "reviews": 544,
             "photos": 89
         },
-        "snippet": "Bonita excursi\u00f3n.",
+        "snippet": "Bonita excursión.",
         "extracted_snippet": {
-            "original": "Bonita excursi\u00f3n.",
+            "original": "Bonita excursión.",
             "translated": "Nice excursion."
         }
     },
@@ -3935,7 +3935,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwNjdHVnNRRRAB",
         "user": {
-            "name": "Germ\u00e1n L\u00f3pez",
+            "name": "Germán López",
             "link": "https://www.google.com/maps/contrib/110971389633775049058?hl=en",
             "contributor_id": "110971389633775049058",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXfvra_sTzkcaFelyNbtf170cVhy8W3Q4NSzQxAtvSSVsTkobI=s120-c-rp-mo-ba2-br100",
@@ -3953,7 +3953,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwMGZYeHJRRRAB",
         "user": {
-            "name": "\u00c1lvaro Garc\u00eda Fuentes",
+            "name": "Álvaro García Fuentes",
             "link": "https://www.google.com/maps/contrib/102488184481717026158?hl=en",
             "contributor_id": "102488184481717026158",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUSfVTmbOm7eMZsZ7oTKyD5ve_Dbwl0rCT7frlpwE4woKxyEnPgTA=s120-c-rp-mo-ba4-br100",
@@ -3979,9 +3979,9 @@
             "reviews": 146,
             "photos": 124
         },
-        "snippet": "Para dar un paseo por el campo, sin m\u00e1s",
+        "snippet": "Para dar un paseo por el campo, sin más",
         "extracted_snippet": {
-            "original": "Para dar un paseo por el campo, sin m\u00e1s",
+            "original": "Para dar un paseo por el campo, sin más",
             "translated": "Just to take a walk in the countryside"
         }
     },
@@ -4002,10 +4002,10 @@
             "reviews": 23,
             "photos": 33
         },
-        "snippet": "Uno de los yacimientos peninsulares m\u00e1s importantes de la Edad del Hierro no se le saca nada de partido por parte de las administraciones competentes. Ni publicidad en \u00c1vila, ni indicaciones en la carretera nacional, ni Centro de visitantes, ni por supuesto visita guiada. O te estudias el tema antes de ir, o qu\u00e9date en casa.",
+        "snippet": "Uno de los yacimientos peninsulares más importantes de la Edad del Hierro no se le saca nada de partido por parte de las administraciones competentes. Ni publicidad en Ávila, ni indicaciones en la carretera nacional, ni Centro de visitantes, ni por supuesto visita guiada. O te estudias el tema antes de ir, o quédate en casa.",
         "extracted_snippet": {
-            "original": "Uno de los yacimientos peninsulares m\u00e1s importantes de la Edad del Hierro no se le saca nada de partido por parte de las administraciones competentes. Ni publicidad en \u00c1vila, ni indicaciones en la carretera nacional, ni Centro de visitantes, ni por supuesto visita guiada. O te estudias el tema antes de ir, o qu\u00e9date en casa.",
-            "translated": "One of the most important peninsular sites from the Iron Age, nothing is taken advantage of by the competent administrations. No advertising in \u00c1vila, no indications on the national highway, no Visitor Center, and of course no guided tour. Either you study the subject before you go, or stay home."
+            "original": "Uno de los yacimientos peninsulares más importantes de la Edad del Hierro no se le saca nada de partido por parte de las administraciones competentes. Ni publicidad en Ávila, ni indicaciones en la carretera nacional, ni Centro de visitantes, ni por supuesto visita guiada. O te estudias el tema antes de ir, o quédate en casa.",
+            "translated": "One of the most important peninsular sites from the Iron Age, nothing is taken advantage of by the competent administrations. No advertising in Ávila, no indications on the national highway, no Visitor Center, and of course no guided tour. Either you study the subject before you go, or stay home."
         }
     },
     "ChZDSUhNMG9nS0VJQ0FnSURVbTRfQ0pBEAE": {
@@ -4048,9 +4048,9 @@
             "reviews": 228,
             "photos": 181
         },
-        "snippet": "Hoy dia es un bonito paseo entre lo q fue un gran asentamiento pero esta descuidado por parte de las administraciones y poco reconstruido.\nLo mejor, ese paseo leyendo los paneles informativos q te hacen llegar a ver la importancia y tama\u00f1o y sobre todo las vistas hacia el pantano del mismo nombre.",
+        "snippet": "Hoy dia es un bonito paseo entre lo q fue un gran asentamiento pero esta descuidado por parte de las administraciones y poco reconstruido.\nLo mejor, ese paseo leyendo los paneles informativos q te hacen llegar a ver la importancia y tamaño y sobre todo las vistas hacia el pantano del mismo nombre.",
         "extracted_snippet": {
-            "original": "Hoy dia es un bonito paseo entre lo q fue un gran asentamiento pero esta descuidado por parte de las administraciones y poco reconstruido.\nLo mejor, ese paseo leyendo los paneles informativos q te hacen llegar a ver la importancia y tama\u00f1o y sobre todo las vistas hacia el pantano del mismo nombre.",
+            "original": "Hoy dia es un bonito paseo entre lo q fue un gran asentamiento pero esta descuidado por parte de las administraciones y poco reconstruido.\nLo mejor, ese paseo leyendo los paneles informativos q te hacen llegar a ver la importancia y tamaño y sobre todo las vistas hacia el pantano del mismo nombre.",
             "translated": "Today, it's a beautiful walk through what was once a large settlement, but has been neglected by the authorities and little reconstructed.\nThe best part is the walk, reading the information panels that give you a glimpse of its importance and size, and especially the views of the reservoir of the same name."
         }
     },
@@ -4185,7 +4185,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVNkx6enFnRRAB",
         "user": {
-            "name": "\u00c1lvaro Mu\u00f1oz",
+            "name": "Álvaro Muñoz",
             "link": "https://www.google.com/maps/contrib/116750125250978205217?hl=en",
             "contributor_id": "116750125250978205217",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIyONnEFn_9yjjZh3N8MqrCULuwCBVtzsWBoC5lIbGQQSX8xQ=s120-c-rp-mo-ba3-br100",
@@ -4207,7 +4207,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVZ1B2Z0JnEAE",
         "user": {
-            "name": "Enrique Rodr\u00edguez (Quiqueroal)",
+            "name": "Enrique Rodríguez (Quiqueroal)",
             "link": "https://www.google.com/maps/contrib/103389673389116934888?hl=en",
             "contributor_id": "103389673389116934888",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVN65d2jy-KedRUud95hiXQT6kO7v6dkFgXyI2raSlXC9fv-eZH=s120-c-rp-mo-ba4-br100",
@@ -4335,7 +4335,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZcDhfd0p3EAE",
         "user": {
-            "name": "Miguel \u201cMiguel\u201d",
+            "name": "Miguel “Miguel”",
             "link": "https://www.google.com/maps/contrib/106682478277675000081?hl=en",
             "contributor_id": "106682478277675000081",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIBu59tzj56DD_rFioZvjUFyLZ9JFANLnG2qdZrmzWWYD42XQ=s120-c-rp-mo-ba5-br100",
@@ -4353,7 +4353,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZaVB1SXRBRRAB",
         "user": {
-            "name": "C\u00e9sar Garc\u00eda Cuerva",
+            "name": "César García Cuerva",
             "link": "https://www.google.com/maps/contrib/113102775332144028392?hl=en",
             "contributor_id": "113102775332144028392",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXs1VtEcsmlDf1mM180yiTZaZ0Lq46dOD3nNX-V8VWQoKeDV9Q=s120-c-rp-mo-ba3-br100",
@@ -4397,9 +4397,9 @@
             "reviews": 188,
             "photos": 425
         },
-        "snippet": "El lugar es espectacular, con unas vistas incre\u00edbles de los valles. Lamentablemente, los restos son escas\u00edsimos, y de lo poco que queda no se encuentra ni un triste panel informativo.",
+        "snippet": "El lugar es espectacular, con unas vistas increíbles de los valles. Lamentablemente, los restos son escasísimos, y de lo poco que queda no se encuentra ni un triste panel informativo.",
         "extracted_snippet": {
-            "original": "El lugar es espectacular, con unas vistas incre\u00edbles de los valles. Lamentablemente, los restos son escas\u00edsimos, y de lo poco que queda no se encuentra ni un triste panel informativo.",
+            "original": "El lugar es espectacular, con unas vistas increíbles de los valles. Lamentablemente, los restos son escasísimos, y de lo poco que queda no se encuentra ni un triste panel informativo.",
             "translated": "The place is spectacular, with incredible views of the valleys. Unfortunately, the remains are very few, and of the few that remain, not even a single information panel can be found."
         }
     },
@@ -4412,7 +4412,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZeWMyYVZREAE",
         "user": {
-            "name": "Victoria Cecilia L\u00f3pez",
+            "name": "Victoria Cecilia López",
             "link": "https://www.google.com/maps/contrib/101394170199584470347?hl=en",
             "contributor_id": "101394170199584470347",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJYssLxIa6-ji0IdoyqXbmFXaEwSfGPJhzjYbFpFV1t2gyyRA=s120-c-rp-mo-br100",
@@ -4437,9 +4437,9 @@
             "reviews": 104,
             "photos": 25
         },
-        "snippet": "Dos entradas rescontruidas y el mejor panel de explicaci\u00f3n cerca del mirador...el Castro m\u00e1s moderno porque hab\u00eda alfarer\u00eda y hierro..la necr\u00f3polis muy grande",
+        "snippet": "Dos entradas rescontruidas y el mejor panel de explicación cerca del mirador...el Castro más moderno porque había alfarería y hierro..la necrópolis muy grande",
         "extracted_snippet": {
-            "original": "Dos entradas rescontruidas y el mejor panel de explicaci\u00f3n cerca del mirador...el Castro m\u00e1s moderno porque hab\u00eda alfarer\u00eda y hierro..la necr\u00f3polis muy grande",
+            "original": "Dos entradas rescontruidas y el mejor panel de explicación cerca del mirador...el Castro más moderno porque había alfarería y hierro..la necrópolis muy grande",
             "translated": "Two reconstructed entrances and the best explanatory panel near the viewpoint... the Castro is more modern because it had pottery and iron... the necropolis is very large"
         }
     },
@@ -4460,9 +4460,9 @@
             "reviews": 103,
             "photos": 14
         },
-        "snippet": "Una visita muy interesante, f\u00e1cilmente identificas la forma de vida de estas gentes; bien conservado y con unas vistas impresionantes.",
+        "snippet": "Una visita muy interesante, fácilmente identificas la forma de vida de estas gentes; bien conservado y con unas vistas impresionantes.",
         "extracted_snippet": {
-            "original": "Una visita muy interesante, f\u00e1cilmente identificas la forma de vida de estas gentes; bien conservado y con unas vistas impresionantes.",
+            "original": "Una visita muy interesante, fácilmente identificas la forma de vida de estas gentes; bien conservado y con unas vistas impresionantes.",
             "translated": "A very interesting visit; you can easily identify these people's way of life; well preserved and with stunning views."
         }
     },
@@ -4475,7 +4475,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvbDRPai1nRRAB",
         "user": {
-            "name": "Carmen S\u00e1ez",
+            "name": "Carmen Sáez",
             "link": "https://www.google.com/maps/contrib/106253133146936135661?hl=en",
             "contributor_id": "106253133146936135661",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWkjgy4ZhZL9EhJAgtXuyNtYK_k6CqOHwp91K3bBi2jsVJON0Jk=s120-c-rp-mo-ba5-br100",
@@ -4483,10 +4483,10 @@
             "reviews": 115,
             "photos": 916
         },
-        "snippet": "No puede faltar su visita en un viaje a \u00c1vila. Est\u00e1 al lado del pantano del mismo nombre y es un lugar especial y muy agradable.",
+        "snippet": "No puede faltar su visita en un viaje a Ávila. Está al lado del pantano del mismo nombre y es un lugar especial y muy agradable.",
         "extracted_snippet": {
-            "original": "No puede faltar su visita en un viaje a \u00c1vila. Est\u00e1 al lado del pantano del mismo nombre y es un lugar especial y muy agradable.",
-            "translated": "A visit to \u00c1vila is a must. It's located next to the reservoir of the same name and is a special and very pleasant place."
+            "original": "No puede faltar su visita en un viaje a Ávila. Está al lado del pantano del mismo nombre y es un lugar especial y muy agradable.",
+            "translated": "A visit to Ávila is a must. It's located next to the reservoir of the same name and is a special and very pleasant place."
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSURvcUp6cDhnRRAB": {
@@ -4509,9 +4509,9 @@
             "reviews": 39,
             "photos": 4
         },
-        "snippet": "Lugar interesante para acercarse y pasar veinte minutos paseando entre los restos. Lo m\u00e1s interesante, las vistas y los paneles explicativos.",
+        "snippet": "Lugar interesante para acercarse y pasar veinte minutos paseando entre los restos. Lo más interesante, las vistas y los paneles explicativos.",
         "extracted_snippet": {
-            "original": "Lugar interesante para acercarse y pasar veinte minutos paseando entre los restos. Lo m\u00e1s interesante, las vistas y los paneles explicativos.",
+            "original": "Lugar interesante para acercarse y pasar veinte minutos paseando entre los restos. Lo más interesante, las vistas y los paneles explicativos.",
             "translated": "Interesting place to visit and spend twenty minutes walking among the remains. The most interesting thing, the views and the explanatory panels."
         }
     },
@@ -4586,10 +4586,10 @@
             "reviews": 298,
             "photos": 260
         },
-        "snippet": "Una pena, pero un yacimiento que puede tener mucho valor para ser visitado y poner en conocimiento est\u00e1 totalmente abandonado. El acceso es casi imposible desde la presa y tampoco sencillo por el lado contrario y la muralla, a pesar de tener una base bastante extensa bien conservada con las entradas de la muralla perfectamente restauradas y conservadas, no resulta todo lo visible que deber\u00eda. No es una buena actuaci\u00f3n de la Junta de Catilla Le\u00f3n. De verdad no vale la pena la cantidad de kil\u00f3metros que tienes que hacer hasta all\u00ed para ver un castro que podr\u00eda estar muy bien pero que est\u00e1 poco adaptado. No lo recomiendo.",
+        "snippet": "Una pena, pero un yacimiento que puede tener mucho valor para ser visitado y poner en conocimiento está totalmente abandonado. El acceso es casi imposible desde la presa y tampoco sencillo por el lado contrario y la muralla, a pesar de tener una base bastante extensa bien conservada con las entradas de la muralla perfectamente restauradas y conservadas, no resulta todo lo visible que debería. No es una buena actuación de la Junta de Catilla León. De verdad no vale la pena la cantidad de kilómetros que tienes que hacer hasta allí para ver un castro que podría estar muy bien pero que está poco adaptado. No lo recomiendo.",
         "extracted_snippet": {
-            "original": "Una pena, pero un yacimiento que puede tener mucho valor para ser visitado y poner en conocimiento est\u00e1 totalmente abandonado. El acceso es casi imposible desde la presa y tampoco sencillo por el lado contrario y la muralla, a pesar de tener una base bastante extensa bien conservada con las entradas de la muralla perfectamente restauradas y conservadas, no resulta todo lo visible que deber\u00eda. No es una buena actuaci\u00f3n de la Junta de Catilla Le\u00f3n. De verdad no vale la pena la cantidad de kil\u00f3metros que tienes que hacer hasta all\u00ed para ver un castro que podr\u00eda estar muy bien pero que est\u00e1 poco adaptado. No lo recomiendo.",
-            "translated": "It's a shame, but a site that could be very valuable to visit and learn about is completely abandoned. Access is almost impossible from the dam and not easy from the opposite side either. The wall, despite having a fairly extensive, well-preserved base with perfectly restored and preserved entrances, is not as visible as it should be. It's not a good performance by the Castile and Le\u00f3n Regional Government. It's really not worth the long distance you have to travel to see a fort that could be very good but is poorly adapted. I don't recommend it."
+            "original": "Una pena, pero un yacimiento que puede tener mucho valor para ser visitado y poner en conocimiento está totalmente abandonado. El acceso es casi imposible desde la presa y tampoco sencillo por el lado contrario y la muralla, a pesar de tener una base bastante extensa bien conservada con las entradas de la muralla perfectamente restauradas y conservadas, no resulta todo lo visible que debería. No es una buena actuación de la Junta de Catilla León. De verdad no vale la pena la cantidad de kilómetros que tienes que hacer hasta allí para ver un castro que podría estar muy bien pero que está poco adaptado. No lo recomiendo.",
+            "translated": "It's a shame, but a site that could be very valuable to visit and learn about is completely abandoned. Access is almost impossible from the dam and not easy from the opposite side either. The wall, despite having a fairly extensive, well-preserved base with perfectly restored and preserved entrances, is not as visible as it should be. It's not a good performance by the Castile and León Regional Government. It's really not worth the long distance you have to travel to see a fort that could be very good but is poorly adapted. I don't recommend it."
         }
     },
     "ChZDSUhNMG9nS0VJQ0FnSURJdDR1SFJREAE": {
@@ -4601,7 +4601,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJdDR1SFJREAE",
         "user": {
-            "name": "Asesores De Salud Le\u00f3n",
+            "name": "Asesores De Salud León",
             "link": "https://www.google.com/maps/contrib/102020565880225388851?hl=en",
             "contributor_id": "102020565880225388851",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUibIUIJkPSsqIqNuUmeeUnQCAagLJNQQ_Y4C1wOy38x57Ycm-a=s120-c-rp-mo-ba3-br100",
@@ -4960,7 +4960,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3eklqd1JBEAE",
         "user": {
-            "name": "Mar\u00eda Rom\u00e1n",
+            "name": "María Román",
             "link": "https://www.google.com/maps/contrib/116488499298667562742?hl=en",
             "contributor_id": "116488499298667562742",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLuTXCCUfOR8FWqa1T2jDx-1uN6JTohLVTGwQ7z6GbjRweaoQ=s120-c-rp-mo-ba3-br100",
@@ -4968,9 +4968,9 @@
             "reviews": 58,
             "photos": 9
         },
-        "snippet": "Una excursi\u00f3n recomendable",
+        "snippet": "Una excursión recomendable",
         "extracted_snippet": {
-            "original": "Una excursi\u00f3n recomendable",
+            "original": "Una excursión recomendable",
             "translated": "A recommended excursion"
         }
     },
@@ -5057,9 +5057,9 @@
             "reviews": 150,
             "photos": 436
         },
-        "snippet": "Interesante lugar hist\u00f3rico, aunque apenas quedan vestigios del castro en la zona",
+        "snippet": "Interesante lugar histórico, aunque apenas quedan vestigios del castro en la zona",
         "extracted_snippet": {
-            "original": "Interesante lugar hist\u00f3rico, aunque apenas quedan vestigios del castro en la zona",
+            "original": "Interesante lugar histórico, aunque apenas quedan vestigios del castro en la zona",
             "translated": "Interesting historical place, although there are hardly any vestiges of the fort left in the area"
         }
     },
@@ -5090,7 +5090,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3d3JfMU5REAE",
         "user": {
-            "name": "Fernando Gonz\u00e1lez",
+            "name": "Fernando González",
             "link": "https://www.google.com/maps/contrib/108627747964093783905?hl=en",
             "contributor_id": "108627747964093783905",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUsGGDq9_4K3-0ETAOo1au4-hJhD1QuQqfdQP8XQCPlaVnaHuBfcw=s120-c-rp-mo-ba5-br100",
@@ -5125,7 +5125,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBdzZpdkR3EAE",
         "user": {
-            "name": "Juan Diego Jim\u00e9nez Jim\u00e9nez",
+            "name": "Juan Diego Jiménez Jiménez",
             "link": "https://www.google.com/maps/contrib/101841990513088967590?hl=en",
             "contributor_id": "101841990513088967590",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWl8c54e-Fnv08zf-k31eH9Oy_Yx1UDNKbJDaCrjPsrL2YLYtsr=s120-c-rp-mo-ba3-br100",
@@ -5133,9 +5133,9 @@
             "reviews": 35,
             "photos": 53
         },
-        "snippet": "Merece la pena visitarlo. Un Castro que defini\u00f3 una \u00e9poca y que se conserva muy bien.",
+        "snippet": "Merece la pena visitarlo. Un Castro que definió una época y que se conserva muy bien.",
         "extracted_snippet": {
-            "original": "Merece la pena visitarlo. Un Castro que defini\u00f3 una \u00e9poca y que se conserva muy bien.",
+            "original": "Merece la pena visitarlo. Un Castro que definió una época y que se conserva muy bien.",
             "translated": "It's worth a visit. A Castro that defined an era and is very well preserved."
         }
     },
@@ -5248,7 +5248,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBc0xHY1dREAE",
         "user": {
-            "name": "\u00d3scar",
+            "name": "Óscar",
             "link": "https://www.google.com/maps/contrib/116615116704385038316?hl=en",
             "contributor_id": "116615116704385038316",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV1sDi3JlAsxMByd2m3EHTlWtGHx3O7aU0Zivhf-22UfOq77beN=s120-c-rp-mo-ba5-br100",
@@ -5256,9 +5256,9 @@
             "reviews": 95,
             "photos": 608
         },
-        "snippet": "Muy recomendable ver primero el centro de interpretaci\u00f3n",
+        "snippet": "Muy recomendable ver primero el centro de interpretación",
         "extracted_snippet": {
-            "original": "Muy recomendable ver primero el centro de interpretaci\u00f3n",
+            "original": "Muy recomendable ver primero el centro de interpretación",
             "translated": "Highly recommended to see the interpretation center first"
         }
     },
@@ -5403,7 +5403,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBNmREQnFBRRAB",
         "user": {
-            "name": "I\u00f1igo Blasco",
+            "name": "Iñigo Blasco",
             "link": "https://www.google.com/maps/contrib/110022175241321624403?hl=en",
             "contributor_id": "110022175241321624403",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVtmSk3s20btlLXY8X9OMF238J-lnVmxYitXLVcwvfMmm6eHkTQ=s120-c-rp-mo-ba4-br100",
@@ -5443,7 +5443,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBNzRTcktREAE",
         "user": {
-            "name": "Ignacio S\u00c1EZ",
+            "name": "Ignacio SÁEZ",
             "link": "https://www.google.com/maps/contrib/100737773034913604150?hl=en",
             "contributor_id": "100737773034913604150",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVsxxytFfyAKzo2DaEcF2d0yjfH9dLD4b1Dn5P1lle_POHVAbXJqA=s120-c-rp-mo-ba5-br100",
@@ -5451,10 +5451,10 @@
             "reviews": 376,
             "photos": 1619
         },
-        "snippet": "El conjunto hist\u00f3rico y las vistas hacen del Castro un lugar obligado como trekking desde Carde\u00f1osa",
+        "snippet": "El conjunto histórico y las vistas hacen del Castro un lugar obligado como trekking desde Cardeñosa",
         "extracted_snippet": {
-            "original": "El conjunto hist\u00f3rico y las vistas hacen del Castro un lugar obligado como trekking desde Carde\u00f1osa",
-            "translated": "The historic complex and the views make the Castro a must-see trek from Carde\u00f1osa."
+            "original": "El conjunto histórico y las vistas hacen del Castro un lugar obligado como trekking desde Cardeñosa",
+            "translated": "The historic complex and the views make the Castro a must-see trek from Cardeñosa."
         }
     },
     "ChZDSUhNMG9nS0VJQ0FnSURBbUwySENREAE": {
@@ -5484,7 +5484,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRbHFfUlVREAE",
         "user": {
-            "name": "Francisco Javier Andr\u00e9s Rodr\u00edguez",
+            "name": "Francisco Javier Andrés Rodríguez",
             "link": "https://www.google.com/maps/contrib/109605612933490264496?hl=en",
             "contributor_id": "109605612933490264496",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLdpdZiP7dkLSm6IdD3kUfxw7xQUtyS-oXftocQtPcfw6gk2ak=s120-c-rp-mo-ba2-br100",
@@ -5507,7 +5507,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRNFBXS25BRRAB",
         "user": {
-            "name": "Alfonso Su\u00e1rez Vald\u00e9s",
+            "name": "Alfonso Suárez Valdés",
             "link": "https://www.google.com/maps/contrib/103413319874788097317?hl=en",
             "contributor_id": "103413319874788097317",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVcv6Z5iDYvkCNjmg4ghVrdc6VvQGyoYUZM9UHFF2veFq7YXZ4I=s120-c-rp-mo-ba3-br100",
@@ -5515,9 +5515,9 @@
             "reviews": 46,
             "photos": 0
         },
-        "snippet": "No tiene gran cosa m\u00e1s all\u00e1 de las bonitas vistas y algunos vestigios que quedan",
+        "snippet": "No tiene gran cosa más allá de las bonitas vistas y algunos vestigios que quedan",
         "extracted_snippet": {
-            "original": "No tiene gran cosa m\u00e1s all\u00e1 de las bonitas vistas y algunos vestigios que quedan",
+            "original": "No tiene gran cosa más allá de las bonitas vistas y algunos vestigios que quedan",
             "translated": "It doesn't have much beyond the beautiful views and some vestiges that remain."
         }
     },
@@ -5530,7 +5530,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRNVAyY21BRRAB",
         "user": {
-            "name": "Miguel \u00c1ngel Guti\u00e9rrez Almarza",
+            "name": "Miguel Ángel Gutiérrez Almarza",
             "link": "https://www.google.com/maps/contrib/108762653878988075004?hl=en",
             "contributor_id": "108762653878988075004",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWtGSEMgzlQVV7ehdwlirufctmt6JsmpzssivY4yo_bqSq5p9ER=s120-c-rp-mo-ba5-br100",
@@ -5560,9 +5560,9 @@
             "reviews": 65,
             "photos": 171
         },
-        "snippet": "Sitio para pasear por las antiguas ruinas del castro incluso con los m\u00e1s peques , vistas espectaculares a la presa de las Cogotas",
+        "snippet": "Sitio para pasear por las antiguas ruinas del castro incluso con los más peques , vistas espectaculares a la presa de las Cogotas",
         "extracted_snippet": {
-            "original": "Sitio para pasear por las antiguas ruinas del castro incluso con los m\u00e1s peques , vistas espectaculares a la presa de las Cogotas",
+            "original": "Sitio para pasear por las antiguas ruinas del castro incluso con los más peques , vistas espectaculares a la presa de las Cogotas",
             "translated": "A place to walk through the ancient ruins of the fort, even with the little ones, with spectacular views of the Cogotas dam."
         }
     },
@@ -5575,7 +5575,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBeXM3aFFBEAE",
         "user": {
-            "name": "Mar\u00eda Garc\u00eda",
+            "name": "María García",
             "link": "https://www.google.com/maps/contrib/115964729398962661346?hl=en",
             "contributor_id": "115964729398962661346",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL2B8A626YPvj26qXSQa54C27wc2FZOqsOJQ6AnCgPUkwxjBw=s120-c-rp-mo-br100",
@@ -5593,7 +5593,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBdmZqMTVRRRAB",
         "user": {
-            "name": "Irene Hern\u00e1ndez",
+            "name": "Irene Hernández",
             "link": "https://www.google.com/maps/contrib/117541386152476096923?hl=en",
             "contributor_id": "117541386152476096923",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVImrr9JxB3j4390BT17Q9uAv_Sa4QBxWwL-knK4DgyYu_WlJ4l=s120-c-rp-mo-ba4-br100",
@@ -5634,7 +5634,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnM2YtbkdREAE",
         "user": {
-            "name": "I\u00f1igo Blasco",
+            "name": "Iñigo Blasco",
             "link": "https://www.google.com/maps/contrib/110925198202704968827?hl=en",
             "contributor_id": "110925198202704968827",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK8zCjarU5pdXuHPD4sBWZbCGn3-3HGnsFDd3o9H9p0HHrhLg=s120-c-rp-mo-ba3-br100",
@@ -5642,9 +5642,9 @@
             "reviews": 70,
             "photos": 23
         },
-        "snippet": "Poca informaci\u00f3n. Abierto a la imaginaci\u00f3n",
+        "snippet": "Poca información. Abierto a la imaginación",
         "extracted_snippet": {
-            "original": "Poca informaci\u00f3n. Abierto a la imaginaci\u00f3n",
+            "original": "Poca información. Abierto a la imaginación",
             "translated": "Little information. Open to the imagination."
         }
     },
@@ -5664,9 +5664,9 @@
             "reviews": 77,
             "photos": 0
         },
-        "snippet": "Fant\u00e1stico",
+        "snippet": "Fantástico",
         "extracted_snippet": {
-            "original": "Fant\u00e1stico",
+            "original": "Fantástico",
             "translated": "Fantastic"
         }
     },
@@ -5747,7 +5747,7 @@
         "source": "Google",
         "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnd2VqRnhRRRAB",
         "user": {
-            "name": "Jos\u00e9 Luis",
+            "name": "José Luis",
             "link": "https://www.google.com/maps/contrib/102191727481653885428?hl=en",
             "contributor_id": "102191727481653885428",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKMeHM6heHPNH_tYYKjmvDwxGCsCmp-aG0-Xz90eJn-AnEB_91K=s120-c-rp-mo-ba6-br100",
@@ -5770,7 +5770,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3X09ibkRREAE",
         "user": {
-            "name": "Juan Antonio P\u00e9rez Casillas",
+            "name": "Juan Antonio Pérez Casillas",
             "link": "https://www.google.com/maps/contrib/102246218111081171147?hl=en",
             "contributor_id": "102246218111081171147",
             "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXoS-yAQOZQMZFvM2tpKlF0dFWT6vsGZtQgwlXOanla3gTOiXQ5=s120-c-rp-mo-ba2-br100",
@@ -5796,10 +5796,10 @@
             "reviews": 96,
             "photos": 47
         },
-        "snippet": "Muy bonito y es uno de los castros vetones mejor conservado de la provincia de \u00c1vila al lado de la presa de las cotas y un paisaje precioso",
+        "snippet": "Muy bonito y es uno de los castros vetones mejor conservado de la provincia de Ávila al lado de la presa de las cotas y un paisaje precioso",
         "extracted_snippet": {
-            "original": "Muy bonito y es uno de los castros vetones mejor conservado de la provincia de \u00c1vila al lado de la presa de las cotas y un paisaje precioso",
-            "translated": "Very beautiful and it is one of the best preserved veton forts in the province of \u00c1vila next to the Las Cotas dam and a beautiful landscape"
+            "original": "Muy bonito y es uno de los castros vetones mejor conservado de la provincia de Ávila al lado de la presa de las cotas y un paisaje precioso",
+            "translated": "Very beautiful and it is one of the best preserved veton forts in the province of Ávila next to the Las Cotas dam and a beautiful landscape"
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSUN3Nklubzd3RRAB": {
@@ -5819,10 +5819,10 @@
             "reviews": 460,
             "photos": 7272
         },
-        "snippet": "El Castro Vet\u00f3n mas cercano a \u00c1vila. Pueblo Celta de la antigua Hispania. Imprescindible visitar antes el Museo Vettonia (entrada gratuita) en el edificio de la Diputaci\u00f3n en \u00c1vila.",
+        "snippet": "El Castro Vetón mas cercano a Ávila. Pueblo Celta de la antigua Hispania. Imprescindible visitar antes el Museo Vettonia (entrada gratuita) en el edificio de la Diputación en Ávila.",
         "extracted_snippet": {
-            "original": "El Castro Vet\u00f3n mas cercano a \u00c1vila. Pueblo Celta de la antigua Hispania. Imprescindible visitar antes el Museo Vettonia (entrada gratuita) en el edificio de la Diputaci\u00f3n en \u00c1vila.",
-            "translated": "The Vet\u00f3n hill fort closest to \u00c1vila. A Celtic village from ancient Hispania. A must-see beforehand is the Vettonia Museum (free admission) in the Provincial Council building in \u00c1vila."
+            "original": "El Castro Vetón mas cercano a Ávila. Pueblo Celta de la antigua Hispania. Imprescindible visitar antes el Museo Vettonia (entrada gratuita) en el edificio de la Diputación en Ávila.",
+            "translated": "The Vetón hill fort closest to Ávila. A Celtic village from ancient Hispania. A must-see beforehand is the Vettonia Museum (free admission) in the Provincial Council building in Ávila."
         }
     },
     "ChZDSUhNMG9nS0VJQ0FnSURBLUtiZWRnEAE": {
@@ -5924,9 +5924,9 @@
             "reviews": 467,
             "photos": 1072
         },
-        "snippet": "Excepcionales restos de un Castro. No es muy grande pero est\u00e1 lo suficientemente bien conservado como para ayudar a entender c\u00f3mo era un Castro Beton. No est\u00e1 muy protegido, aunque no va mucha gente. Los carteles explicativos son claros pero concisos.  Cuidado por d\u00f3nde llegamos por un lado o por otro podremos aparcar m\u00e1s o menos lejos.",
+        "snippet": "Excepcionales restos de un Castro. No es muy grande pero está lo suficientemente bien conservado como para ayudar a entender cómo era un Castro Beton. No está muy protegido, aunque no va mucha gente. Los carteles explicativos son claros pero concisos.  Cuidado por dónde llegamos por un lado o por otro podremos aparcar más o menos lejos.",
         "extracted_snippet": {
-            "original": "Excepcionales restos de un Castro. No es muy grande pero est\u00e1 lo suficientemente bien conservado como para ayudar a entender c\u00f3mo era un Castro Beton. No est\u00e1 muy protegido, aunque no va mucha gente. Los carteles explicativos son claros pero concisos.  Cuidado por d\u00f3nde llegamos por un lado o por otro podremos aparcar m\u00e1s o menos lejos.",
+            "original": "Excepcionales restos de un Castro. No es muy grande pero está lo suficientemente bien conservado como para ayudar a entender cómo era un Castro Beton. No está muy protegido, aunque no va mucha gente. Los carteles explicativos son claros pero concisos.  Cuidado por dónde llegamos por un lado o por otro podremos aparcar más o menos lejos.",
             "translated": "Exceptional remains of a hill fort. It's not very large, but it's well enough preserved to help understand what a Beton hill fort was like. It's not very protected, although it's not very crowded. The explanatory signs are clear but concise. Be careful where you approach, as you might park farther or farther away."
         }
     },
@@ -6019,9 +6019,9 @@
             "reviews": 29,
             "photos": 8
         },
-        "snippet": "Yacimiento peque\u00f1o y algo descuidado pero el entorno natural compensa.",
+        "snippet": "Yacimiento pequeño y algo descuidado pero el entorno natural compensa.",
         "extracted_snippet": {
-            "original": "Yacimiento peque\u00f1o y algo descuidado pero el entorno natural compensa.",
+            "original": "Yacimiento pequeño y algo descuidado pero el entorno natural compensa.",
             "translated": "Small and somewhat neglected site but the natural surroundings make up for it."
         }
     },
@@ -6099,9 +6099,9 @@
             "reviews": 299,
             "photos": 331
         },
-        "snippet": "Dar un paseo rodeada de naturaleza con maravillosas vistas y vacas! Fuimos con nuestra perra, se lo pas\u00f3 genial en el agua",
+        "snippet": "Dar un paseo rodeada de naturaleza con maravillosas vistas y vacas! Fuimos con nuestra perra, se lo pasó genial en el agua",
         "extracted_snippet": {
-            "original": "Dar un paseo rodeada de naturaleza con maravillosas vistas y vacas! Fuimos con nuestra perra, se lo pas\u00f3 genial en el agua",
+            "original": "Dar un paseo rodeada de naturaleza con maravillosas vistas y vacas! Fuimos con nuestra perra, se lo pasó genial en el agua",
             "translated": "Take a walk surrounded by nature with wonderful views and cows! We went with our dog, she had a great time in the water"
         }
     },
@@ -6140,10 +6140,10 @@
             "reviews": 167,
             "photos": 99
         },
-        "snippet": "De lo mejor de la cultura Celtiberica excelente centro de interpretacion, a 4,8 km de Carde\u00f1osa un paseo por la naturaleza.",
+        "snippet": "De lo mejor de la cultura Celtiberica excelente centro de interpretacion, a 4,8 km de Cardeñosa un paseo por la naturaleza.",
         "extracted_snippet": {
-            "original": "De lo mejor de la cultura Celtiberica excelente centro de interpretacion, a 4,8 km de Carde\u00f1osa un paseo por la naturaleza.",
-            "translated": "An excellent interpretation center, 4.8 km from Carde\u00f1osa, offering a nature walk, offering the best of Celtiberian culture."
+            "original": "De lo mejor de la cultura Celtiberica excelente centro de interpretacion, a 4,8 km de Cardeñosa un paseo por la naturaleza.",
+            "translated": "An excellent interpretation center, 4.8 km from Cardeñosa, offering a nature walk, offering the best of Celtiberian culture."
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSUN3MW9IWV9nRRAB": {
@@ -6199,10 +6199,10 @@
             "reviews": 271,
             "photos": 1025
         },
-        "snippet": "Uno de los muchos vestigios de la cultura Celta que podemos encontrar en \u00c1vila. Aunque recientemente se ha comenzado a conservar y promocionar, se echa de menos un poco m\u00e1s de informaci\u00f3n para entender mejor c\u00f3mo era la vida dentro del castro.",
+        "snippet": "Uno de los muchos vestigios de la cultura Celta que podemos encontrar en Ávila. Aunque recientemente se ha comenzado a conservar y promocionar, se echa de menos un poco más de información para entender mejor cómo era la vida dentro del castro.",
         "extracted_snippet": {
-            "original": "Uno de los muchos vestigios de la cultura Celta que podemos encontrar en \u00c1vila. Aunque recientemente se ha comenzado a conservar y promocionar, se echa de menos un poco m\u00e1s de informaci\u00f3n para entender mejor c\u00f3mo era la vida dentro del castro.",
-            "translated": "One of the many vestiges of Celtic culture that we can find in \u00c1vila. Although it has recently begun to be conserved and promoted, a little more information is missing to better understand what life was like inside the fort."
+            "original": "Uno de los muchos vestigios de la cultura Celta que podemos encontrar en Ávila. Aunque recientemente se ha comenzado a conservar y promocionar, se echa de menos un poco más de información para entender mejor cómo era la vida dentro del castro.",
+            "translated": "One of the many vestiges of Celtic culture that we can find in Ávila. Although it has recently begun to be conserved and promoted, a little more information is missing to better understand what life was like inside the fort."
         }
     },
     "ChdDSUhNMG9nS0VJQ0FnSURRZ2JqRzZRRRAB": {
@@ -6258,9 +6258,9 @@
             "reviews": 96,
             "photos": 13
         },
-        "snippet": "Aparcar en el parking del pantano y un buen paseo, (unos 25 min) nada dif\u00edcil de llegar pero no ofrece mas que unas bonitas vistas.",
+        "snippet": "Aparcar en el parking del pantano y un buen paseo, (unos 25 min) nada difícil de llegar pero no ofrece mas que unas bonitas vistas.",
         "extracted_snippet": {
-            "original": "Aparcar en el parking del pantano y un buen paseo, (unos 25 min) nada dif\u00edcil de llegar pero no ofrece mas que unas bonitas vistas.",
+            "original": "Aparcar en el parking del pantano y un buen paseo, (unos 25 min) nada difícil de llegar pero no ofrece mas que unas bonitas vistas.",
             "translated": "Park in the reservoir parking lot and take a good walk (about 25 minutes). It's not difficult to get there, but it offers nothing but beautiful views."
         }
     },
@@ -6273,7 +6273,7 @@
         "source": "Google",
         "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnbEpfZktREAE",
         "user": {
-            "name": "Ariadna All\u00e9s",
+            "name": "Ariadna Allés",
             "link": "https://www.google.com/maps/contrib/104675358124757397337?hl=en",
             "contributor_id": "104675358124757397337",
             "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIZAhfG-FRR6CHE3o0yuBiLj9v0gbS9Lyfk7x3RPSlpqiAOGSMh=s120-c-rp-mo-ba2-br100",
@@ -6281,10 +6281,350 @@
             "reviews": 15,
             "photos": 2
         },
-        "snippet": "Un lugar espectacular y los restos arqueol\u00f3gicos muy bien tratados.",
+        "snippet": "Un lugar espectacular y los restos arqueológicos muy bien tratados.",
         "extracted_snippet": {
-            "original": "Un lugar espectacular y los restos arqueol\u00f3gicos muy bien tratados.",
+            "original": "Un lugar espectacular y los restos arqueológicos muy bien tratados.",
             "translated": "A spectacular place and the archaeological remains are very well treated."
         }
+    },
+    "Ci9DQUlRQUNvZENodHljRjlvT2xGU1l6TTFOR3RKYURObFdrOXVTMkpVZDAxRVRsRRAB": {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGU1l6TTFOR3RKYURObFdrOXVTMkpVZDAxRVRsRRAB!2m1!1s0x0:0xf9e2d958e328ef11!3m1!1s2@1:CAIQACodChtycF9oOlFSYzM1NGtJaDNlWk9uS2JUd01ETlE%7C%7C?hl=en-US",
+        "rating": 5.0,
+        "date": "3 weeks ago",
+        "iso_date": "2026-04-23T08:56:30Z",
+        "iso_date_of_last_edit": "2026-04-23T08:56:30Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGU1l6TTFOR3RKYURObFdrOXVTMkpVZDAxRVRsRRAB",
+        "user": {
+            "name": "Mirian Garcinuño",
+            "link": "https://www.google.com/maps/contrib/109872873464940042226?hl=en-US",
+            "contributor_id": "109872873464940042226",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKZtWgdP5lAakm9Uz9W6Usvo8gS9yVIr52fjKUMMIDhf3HShQ=s120-c-rp-mo-ba4-br100",
+            "local_guide": true,
+            "reviews": 79,
+            "photos": 16
+        },
+        "snippet": "Ruta bonita y bastante llana, excepto subida inicial, recomendable cuando no hace mucho calor, ya que hay pocas zonas de sombra durante toda la ruta",
+        "extracted_snippet": {
+            "original": "Ruta bonita y bastante llana, excepto subida inicial, recomendable cuando no hace mucho calor, ya que hay pocas zonas de sombra durante toda la ruta",
+            "translated": "A beautiful and fairly flat route, except for the initial climb. Recommended when it's not too hot, as there are few shaded areas along the entire route."
+        },
+        "details": {
+            "visited_on": "Weekend",
+            "wait_time": "No wait"
+        },
+        "likes": 0
+    },
+    "Ci9DQUlRQUNvZENodHljRjlvT21kQ2NWZEJVbXRUWTBOVFNGQjJlV0p0U1RFeGIxRRAB": {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kQ2NWZEJVbXRUWTBOVFNGQjJlV0p0U1RFeGIxRRAB!2m1!1s0x0:0xf9e2d958e328ef11!3m1!1s2@1:CAIQACodChtycF9oOmdCcVdBUmtTY0NTSFB2eWJtSTExb1E%7C%7C?hl=en-US",
+        "rating": 5.0,
+        "date": "a month ago",
+        "iso_date": "2026-04-10T16:13:32Z",
+        "iso_date_of_last_edit": "2026-04-10T16:13:32Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kQ2NWZEJVbXRUWTBOVFNGQjJlV0p0U1RFeGIxRRAB",
+        "user": {
+            "name": "Ricardo García",
+            "link": "https://www.google.com/maps/contrib/118194780193162763321?hl=en-US",
+            "contributor_id": "118194780193162763321",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWx3zIRP9qAIalGafrNKEA16Huf_MOpi_FaY9Gdi0bvT9zGeLGb1A=s120-c-rp-mo-br100",
+            "local_guide": true,
+            "reviews": 5,
+            "photos": 0
+        },
+        "likes": 0
+    },
+    "Ci9DQUlRQUNvZENodHljRjlvT2xkYWFGTnpRa05TZEU1b1FuTkNjRWxUTUc1bFQzYxAB": {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkYWFGTnpRa05TZEU1b1FuTkNjRWxUTUc1bFQzYxAB!2m1!1s0x0:0xf9e2d958e328ef11!3m1!1s2@1:CAIQACodChtycF9oOldaaFNzQkNSdE5oQnNCcElTMG5lT3c%7C%7C?hl=en-US",
+        "rating": 5.0,
+        "date": "a month ago",
+        "iso_date": "2026-03-19T12:22:27Z",
+        "iso_date_of_last_edit": "2026-03-19T12:22:27Z",
+        "images": [
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn2jCzAkElmb_Y1_1dJL3JR1rJej6u1u3tAWPrYR_EoyioixZoqg0ATvuoXsc8ogWULumXNAmIrIxQLGAD2NTihTCcj8LBp0F3F7lETn2ufVsOUsmL0zUQF_eHdNyRmUZtF6oTH6RogIu9w=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn2yli4Pmt5S8dKTagRN3o45BlMI5bODDMJfc4Fd0K9v6J7-APlcA4QQd_M7g9ap7knq_J_rGnek6Dq2PHBwOu7Hs3-HehMmqzUZb4R2IJLwAIX8MQsnf4Rx72RcX8ZkPLpGexjRvzMz5f-2=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn1DHBz9hHjpP2q_a9I8Q-kIqRaGaKI_1DFToCQETikkQY-Ovk24ATE6uH-inbzvvrg1GpXWNG3fcDvod0e1DxEwS_DgBhUskhwYMgI-rFpzYjjborCm7PN_VKbklJlsvIegv5DrGY77IaSl=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn0amJZY4wuA3zKfyB3DCs7O0V5aZG2MpHNx0akaKISdcav0s-ifjy4zYMiuWkKCrU7Lrbt6bAIdO504ErwhFaHnlhpEmiDRbJjiKkwnZQo9CvUyyWIHfpeQmaO_VMPEmn2K585CYGnktLMC=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn2rEBQrx6_R1dZzxPGVHSBtwYBAIwbkVq-cpuptRHznMXYasd-uy9MD-bxeqToNP-ML84949c2yfyTD3AyVsJFHgyXi53GJfnVEB4ssU8c8LSal3C1n32MEIM2qm00Hi52zxogO0XzCqU2H=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn1RxO9FpHPnxfeRLm3Pa6iNeGPuVZ5F3xmmMYkMSNmMnUq_wjc-CPOGQBjIfJAqtv2e8soxw4StE8pMtk7vYG1LQVc8kKlK9zeV6RI1ey_7ckKmBWXeFh9k5OW8fKol86JAc2OKMg4M3Ic=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn38Op4GJCM03uc48YjQUKIB7XGNIro6eaeBgLpsqAonTG_Jx-3cg7OjsKu3nW-ttW8FVYM1XiUdXscRrFhzOxDzZdZq9xJpQsyqVTvE1bO9bjK0CSKCeedLmh5kkMOwuTvTKFL2vkI5px8e=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn3XenVCOSv5YVbqR35WYML_iVx4krt2WBtmsoIuWzdIVipfLNGdMk2F6__0ddCl2ub9cQOgCWTukj6GF0q3TF915jvrdkThA1dGrS-pVZv4rlCxhIFn_6D9YxsHtpp04gwoY5fcKCT4x2A=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn1Cbu4HreILTZ6GPa66OifPZLZOZQCSgN4f-_2WCCHcwZFkJN0NU_vGGoN-CmsGkKJkvEb0yjOFlvu4Apt7Ow6w2dXAn6epgOxTPCK6nrF8t8rzCA3HQ4ZCfHdfDyC2udUGLaiPSPGfqhpE=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn0h4g6TN-e_80a6Gh3jZxofFD0SLUOmokjF7xXP8_wZORrAh-UgP7cf-JYmkATG4QS4ijGzlIr1OUvFri7bDC-sEQdKp4RKrAJWzwyvMlvuZeZEcNOm7beKz2KbL2p6wJu8gmhOSOnIsRYo=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn31gkXB3aUkpwS1HS9l94TxpFL_Yey9u0OYOLyhVvdpkzmOzmOQM3hvNa3eixGuDEOTHEeLpo5D_XXwSJAMpaoPzYaF2vkO1XZj8Xmzudv6uyx8bTA1efHIGnmjpFBUwpBX_RUlmJQBFOA-=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn32rJKoHveDLlsA7CtJzgAieSVZszImQJe_rOaMiXjrh0_jgVnbK9iOagxcrmuhWtMWwSLumq2w6x5G5M_pYfMwkwpHb-vbZ0MVRyWU3qmjBSUjkjrNqS7_OHmMG0HCddEuuCKSyeQcggCQ=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn3ZS3D9-RWFrIi1vv4dJyMWrXWQO8hXKWYfv8uajsa59eIpn24MnN6yegkb9ZJhP15A9jpE38FPyK5Wuv2y2mLx59OoKnGg-QCqvNQV-T6lkVppw7gHbp6eqFFqLNFk-HVGysKhDE4TWeJp=k-no"
+        ],
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkYWFGTnpRa05TZEU1b1FuTkNjRWxUTUc1bFQzYxAB",
+        "user": {
+            "name": "Carlos Chevallier Marina",
+            "link": "https://www.google.com/maps/contrib/103641757416574804822?hl=en-US",
+            "contributor_id": "103641757416574804822",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXmFbqTj5WTxeqOIKUgO-e4A7Nm_wfQdvZROkOdhZ-Ywl0xJ866=s120-c-rp-mo-ba6-br100",
+            "local_guide": true,
+            "reviews": 281,
+            "photos": 2560
+        },
+        "snippet": "Bien conservado yacimiento, con indicaciones precisas y suficientes sin que la cartelería arruine el panorama histórico y paisajistico del incomparable entorno.",
+        "extracted_snippet": {
+            "original": "Bien conservado yacimiento, con indicaciones precisas y suficientes sin que la cartelería arruine el panorama histórico y paisajistico del incomparable entorno.",
+            "translated": "A well-preserved site, with precise and sufficient signage without spoiling the historical and scenic panorama of the incomparable surroundings."
+        },
+        "details": {
+            "visited_on": "Weekend",
+            "wait_time": "No wait",
+            "reservation_recommended": "No"
+        },
+        "likes": 0
+    },
+    "Ci9DQUlRQUNvZENodHljRjlvT2xaNmFXRmhSa1YyUkRoMk1FRTVYM054VjBKQ2FXYxAB": {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaNmFXRmhSa1YyUkRoMk1FRTVYM054VjBKQ2FXYxAB!2m1!1s0x0:0xf9e2d958e328ef11!3m1!1s2@1:CAIQACodChtycF9oOlZ6aWFhRkV2RDh2MEE5X3NxV0JCaWc%7C%7C?hl=en-US",
+        "rating": 5.0,
+        "date": "2 months ago",
+        "iso_date": "2026-03-04T10:16:50Z",
+        "iso_date_of_last_edit": "2026-03-04T10:16:50Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNmFXRmhSa1YyUkRoMk1FRTVYM054VjBKQ2FXYxAB",
+        "user": {
+            "name": "Pablo van Hoof",
+            "link": "https://www.google.com/maps/contrib/110385853512955976042?hl=en-US",
+            "contributor_id": "110385853512955976042",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLGjHj2JHKuh9jvi-tnXUY_EnO7RaJZlwTnG8r7evZDgdN4Gw=s120-c-rp-mo-br100",
+            "local_guide": true,
+            "reviews": 3,
+            "photos": 0
+        },
+        "details": {
+            "visited_on": "Weekend",
+            "wait_time": "No wait",
+            "reservation_recommended": "No"
+        },
+        "likes": 0
+    },
+    "Ci9DQUlRQUNvZENodHljRjlvT25CUVkxcENWVkF0VW1OVmNuZFBTbWRaTlU1eE9XYxAB": {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CUVkxcENWVkF0VW1OVmNuZFBTbWRaTlU1eE9XYxAB!2m1!1s0x0:0xf9e2d958e328ef11!3m1!1s2@1:CAIQACodChtycF9oOnBQY1pCVVAtUmNVcndPSmdZNU5xOWc%7C%7C?hl=en-US",
+        "rating": 4.0,
+        "date": "2 months ago",
+        "iso_date": "2026-03-02T07:23:11Z",
+        "iso_date_of_last_edit": "2026-03-02T07:23:11Z",
+        "images": [
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn13t1x-Fh1ojM7bb_MV_OJhS6maU7kRMLzPMWULFw6829Vvqsqm9acNzNk5r58J7QEwDwWSavSKDpAmMjd-A4kub0ldoEwuOv_szve_qDt2o_mcXHCTJWpK0Bb55oBtSv7Bj501bdNCqKM=k-no"
+        ],
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CUVkxcENWVkF0VW1OVmNuZFBTbWRaTlU1eE9XYxAB",
+        "user": {
+            "name": "ROBERTO PINDADO AREVALO",
+            "link": "https://www.google.com/maps/contrib/109903733785068061974?hl=en-US",
+            "contributor_id": "109903733785068061974",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXePBu-77iQ2zAONPPtZKKHyto7aujKD_qkJiMACCPShcbCcDU7=s120-c-rp-mo-ba4-br100",
+            "local_guide": true,
+            "reviews": 100,
+            "photos": 74
+        },
+        "snippet": "Muy buenas vistas , recorrido corto.",
+        "extracted_snippet": {
+            "original": "Muy buenas vistas , recorrido corto.",
+            "translated": "Great views, short walk."
+        },
+        "details": {
+            "visited_on": "Weekend",
+            "wait_time": "No wait",
+            "reservation_recommended": "No"
+        },
+        "likes": 0
+    },
+    "Ci9DQUlRQUNvZENodHljRjlvT2tkNE16QnNValpyZVV4NFUyUjZhRmxUVkVWWVZGRRAB": {
+        "position": 6,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tkNE16QnNValpyZVV4NFUyUjZhRmxUVkVWWVZGRRAB!2m1!1s0x0:0xf9e2d958e328ef11!3m1!1s2@1:CAIQACodChtycF9oOkd4MzBsUjZreUx4U2R6aFlTVEVYVFE%7C%7C?hl=en-US",
+        "rating": 4.0,
+        "date": "5 months ago",
+        "iso_date": "2025-12-06T14:05:55Z",
+        "iso_date_of_last_edit": "2025-12-06T14:05:55Z",
+        "images": [
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn0a1c3yqUTzd-7jbF5NXWgug4TMVjVwqBxX8N_O1uVhHWlbzz21AqkyIaVW2poQkX4MtnAr83eFmTNBxWb6cEgXHxj-i24z0sfjnZg1U1jeMmf6MR0nX6Kpx7OCHPqZsANtV_99cGup3UIp=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn2deIf6UaXqxJFlZ-xgR7BK8Zqh0yec7T9_hNEP07mqM-qlamfNTINfsXcW46YzeyY22_MQX36yOWTImWYKtORec4C0ygpTNbz8Wyv2Y6S7miO3upIkYBQgNIp-RjI3malIjZmgCq5h7W_k=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn3eH87yG-Q25WabiD3v8kipKLLJ5aXa3XzW6Wx8yxXKtaFdx4dQHi8iRdCjEzg8eTXuVffT_36VCPLyGLAHgkIa9S3rsgPz-VWkYvUVtBS4HF6i9BPDIkTFjA21jFh0Ezy7WDAMbZyufLM=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn35ya0cE5gH81XyE3YRi05QRAFZi098O1lhgvc8o0kohTAAy9C3dK8fxPybtqM4kZQvNteEG3UPBMe6FYD6oxLI0Rlr-hCLT3zgi3AZIBuGvHAGCxxiuYC44b4B51vvRT2uBp5dj_UX2rXB=k-no"
+        ],
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkNE16QnNValpyZVV4NFUyUjZhRmxUVkVWWVZGRRAB",
+        "user": {
+            "name": "Gustavo Sancho",
+            "link": "https://www.google.com/maps/contrib/104480349395471557956?hl=en-US",
+            "contributor_id": "104480349395471557956",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXbnUzYfzT-AMSOI4tmCQ3Rv3deQoXwb5Pvz6SlKAfMoXKXFcLK=s120-c-rp-mo-ba5-br100",
+            "local_guide": true,
+            "reviews": 151,
+            "photos": 209
+        },
+        "snippet": "Un bonito paseo por el campo. Para llevarse una tortilla de patatas y bebida. Sólo cuidado de no ir cuando ha llovido y no hacer el burro",
+        "extracted_snippet": {
+            "original": "Un bonito paseo por el campo. Para llevarse una tortilla de patatas y bebida. Sólo cuidado de no ir cuando ha llovido y no hacer el burro",
+            "translated": "A lovely walk in the countryside. Bring a Spanish omelet and a drink. Just be careful not to go after it's rained and don't be reckless."
+        },
+        "details": {
+            "visited_on": "Public holiday",
+            "wait_time": "No wait",
+            "reservation_recommended": "No"
+        },
+        "likes": 0
+    },
+    "Ci9DQUlRQUNvZENodHljRjlvT2xFdFQwUTJVRkUzZDIwM2ExOUJSRVF3WlZRMFVXYxAB": {
+        "position": 7,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xFdFQwUTJVRkUzZDIwM2ExOUJSRVF3WlZRMFVXYxAB!2m1!1s0x0:0xf9e2d958e328ef11!3m1!1s2@1:CAIQACodChtycF9oOlEtT0Q2UFE3d203a19BREQwZVQ0UWc%7C%7C?hl=en-US",
+        "rating": 5.0,
+        "date": "6 months ago",
+        "iso_date": "2025-11-07T10:33:08Z",
+        "iso_date_of_last_edit": "2025-11-07T10:33:08Z",
+        "images": [
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn0ltwVKZbiywJLYmYSMU4Bj6_N9lnpxtrIIViPdUklUbYe222m_zmtEJIpVhApzgR4vBR0TaHAaoLUAjnzdT9b5xVh-ZVGVqnPZNBIBKtKZGyBxykLJwDsAANqI5dqTaKZB66rgfiflXJSb=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn1bssXUbwz-8vVUMPkox6W0Agmo8Q8_WGI3IDjiEpb9OwYBSAPN952p96uq80l-MHfqaYGQXoO0FM9s35F8EOTmpnF7zX8NA7cc_JQ4DdF-eEVEehdh0n_qYBPzkRnlzpZ7N7PNF5wv8FM=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn1AKSkIFkbchToJvP7pxXNkbMQRruZwI5yp-6PEePcWwqOC4QBH-pRwVg5w8F55X-Nj43G-X4209PQDgaclGfwngztD5R_tccSX2nUuf-Pa5kRaa9byKkNTnucf_CkstjsK2vsegPmSrHNE=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn1GkHiY1fP7E5xOCoFF4xAUYE9nhQRNGRo3LyltKbrNmCKVsnCex30gmuE1lidEQTazA8_wFEv8-xPMgRdm95As2OirsQWOcMwKiOiQHSwAm8VeZaVqaui1QpRYVUmRg8CbzFtkNGEelABn=k-no"
+        ],
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFdFQwUTJVRkUzZDIwM2ExOUJSRVF3WlZRMFVXYxAB",
+        "user": {
+            "name": "mario gonzález",
+            "link": "https://www.google.com/maps/contrib/105931152963938310443?hl=en-US",
+            "contributor_id": "105931152963938310443",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIrnF8-01HhMBqrYK_8SDddhv7PprmgksJwFYyTHnLsiiB7=s120-c-rp-mo-ba4-br100",
+            "local_guide": true,
+            "reviews": 80,
+            "photos": 317
+        },
+        "snippet": "Castro, yacimiento arqueológico Vetón\n\nConsta de unas fortificaciones que dominan todo el entorno al lado del embalse de las cogotas.\nEn la muralla se pueden apreciar torres defensivas y puertas de acceso a la misma.",
+        "extracted_snippet": {
+            "original": "Castro, yacimiento arqueológico Vetón\n\nConsta de unas fortificaciones que dominan todo el entorno al lado del embalse de las cogotas.\nEn la muralla se pueden apreciar torres defensivas y puertas de acceso a la misma.",
+            "translated": "Castro, Vetton Archaeological Site\n\nIt consists of fortifications that dominate the surrounding area next to the Las Cogotas reservoir.\nDefensive towers and access gates can be seen along the wall."
+        },
+        "details": {
+            "visited_on": "Weekend",
+            "wait_time": "No wait",
+            "reservation_recommended": "No"
+        },
+        "likes": 0
+    },
+    "Ci9DQUlRQUNvZENodHljRjlvT21ONWFqWmxaekJsWDE5eVpXWnVZVFpWWkRkeFZVRRAB": {
+        "position": 8,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21ONWFqWmxaekJsWDE5eVpXWnVZVFpWWkRkeFZVRRAB!2m1!1s0x0:0xf9e2d958e328ef11!3m1!1s2@1:CAIQACodChtycF9oOmN5ajZlZzBlX19yZWZuYTZVZDdxVUE%7C%7C?hl=en-US",
+        "rating": 5.0,
+        "date": "7 months ago",
+        "iso_date": "2025-10-12T19:29:54Z",
+        "iso_date_of_last_edit": "2025-10-12T19:29:54Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONWFqWmxaekJsWDE5eVpXWnVZVFpWWkRkeFZVRRAB",
+        "user": {
+            "name": "LARA",
+            "link": "https://www.google.com/maps/contrib/104345821837609951525?hl=en-US",
+            "contributor_id": "104345821837609951525",
+            "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUb9Nuck4dqjGTdIbQMiQzB0Cwixku3NqLsDBqCFqnP_GbS1yKD=s120-c-rp-mo-ba4-br100",
+            "local_guide": true,
+            "reviews": 104,
+            "photos": 9
+        },
+        "snippet": "Muy bonito, tanto el castro como las vistas\nUna pena que el cartel esté tan deteriorado, cuesta leerlo.",
+        "extracted_snippet": {
+            "original": "Muy bonito, tanto el castro como las vistas\nUna pena que el cartel esté tan deteriorado, cuesta leerlo.",
+            "translated": "Very beautiful, both the hill fort and the views.\nIt's a shame the sign is so deteriorated; it's hard to read."
+        },
+        "details": {
+            "visited_on": "Public holiday",
+            "wait_time": "No wait",
+            "reservation_recommended": "No"
+        },
+        "likes": 0
+    },
+    "Ci9DQUlRQUNvZENodHljRjlvT25WWVpVUmxaSGxLWjJOTFEwazFia1kwWjNscVdtYxAB": {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WWVpVUmxaSGxLWjJOTFEwazFia1kwWjNscVdtYxAB!2m1!1s0x0:0xf9e2d958e328ef11!3m1!1s2@1:CAIQACodChtycF9oOnVYZURlZHlKZ2NLQ0k1bkY0Z3lqWmc%7C%7C?hl=en",
+        "rating": 4.0,
+        "date": "Edited 7 months ago",
+        "iso_date": "2025-10-02T18:02:50Z",
+        "iso_date_of_last_edit": "2025-10-05T12:39:27Z",
+        "images": [
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn3wZ9MGh1c0lCNrUqFyliEAaVobXFNoKBucW85MHAJ_a5dPjuCXS-hzF57aDYEe7VnE0xf37HWEHGtYnse5purRuTAnfQvfa1jCsKM1KX2EWXzBRDqZsIMjjViPQqCAp607Z35dhy0Z2tD2=k-no"
+        ],
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWVpVUmxaSGxLWjJOTFEwazFia1kwWjNscVdtYxAB",
+        "user": {
+            "name": "Juan Manuel Figueroa",
+            "link": "https://www.google.com/maps/contrib/114802451376995587359?hl=en",
+            "contributor_id": "114802451376995587359",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ4hFoUKt-5CMvJHsjzN0sqxB6qw00zDIauoAYEM1J9Eowmvg=s120-c-rp-mo-ba3-br100",
+            "local_guide": true,
+            "reviews": 9,
+            "photos": 8
+        },
+        "snippet": "No hay que pagar entrada ,",
+        "extracted_snippet": {
+            "original": "No hay que pagar entrada ,",
+            "translated": "There is no entrance fee,"
+        },
+        "details": {
+            "visited_on": "Weekday",
+            "wait_time": "No wait",
+            "reservation_recommended": "Not sure"
+        },
+        "likes": 0
+    },
+    "Ci9DQUlRQUNvZENodHljRjlvT201NlJqbEJaVEpSVjJkVmRXOUpiVXN6U3pSRFEzYxAB": {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201NlJqbEJaVEpSVjJkVmRXOUpiVXN6U3pSRFEzYxAB!2m1!1s0x0:0xf9e2d958e328ef11!3m1!1s2@1:CAIQACodChtycF9oOm56RjlBZTJRV2dVdW9JbUszSzRDQ3c%7C%7C?hl=en",
+        "rating": 5.0,
+        "date": "7 months ago",
+        "iso_date": "2025-09-24T19:00:41Z",
+        "iso_date_of_last_edit": "2025-09-24T19:00:41Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NlJqbEJaVEpSVjJkVmRXOUpiVXN6U3pSRFEzYxAB",
+        "user": {
+            "name": "Tomás García Fontcuberta",
+            "link": "https://www.google.com/maps/contrib/115027761323969593248?hl=en",
+            "contributor_id": "115027761323969593248",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLCu3LtEh8XO7p7R5UPbjJadfFwAR2RfehL4UvYLivYIfRioA=s120-c-rp-mo-ba5-br100",
+            "local_guide": true,
+            "reviews": 239,
+            "photos": 10
+        },
+        "likes": 0
+    },
+    "Ci9DQUlRQUNvZENodHljRjlvT2toZlkyTXlVbGhqZWxOU1psVTFORVF3Tkc5d0xWRRAB": {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2toZlkyTXlVbGhqZWxOU1psVTFORVF3Tkc5d0xWRRAB!2m1!1s0x0:0xf9e2d958e328ef11!3m1!1s2@1:CAIQACodChtycF9oOkhfY2MyUlhjelNSZlU1NEQwNG9wLVE%7C%7C?hl=en",
+        "rating": 4.0,
+        "date": "7 months ago",
+        "iso_date": "2025-09-23T14:45:46Z",
+        "iso_date_of_last_edit": "2025-09-23T14:45:46Z",
+        "images": [
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn1OYnFtjDxaR9NrNNHrrLksafNTw6w_e2SkjgO4Kfw3zCmJKfb4_4AyF0b53vX-zzkCPW7OnJXzyhOQE3ifh6DwCqOMOSKHdoO4zHaLXTzycsC-oF7itog35LcVLuR_XOPvL2bWYxStlls=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn0f5ydojkP9HQf0BUTyIEpGeNBYYAKoPa3zDe6ickbYqW1-m3K8xcLlb7L3ZHZW3Do_zHuqBDdRRp_cd15nu5O8mFkOMTvbAkCgwPEf168YXCkWRVAXAiGeWJA9djYn8nAq_uVYH9_hOlcn=k-no",
+            "https://lh3.googleusercontent.com/grass-cs/ANxoTn38-O84IXKZBRUco0iqACnNLTU4wZhhcpGhFn6A_0KXg71HhJ_RC55WE8V0eJjTonlfogINQ4t7gJv_nNx6B3b0ZvVAnrGMfaLhwDVf8Q4u913awgmFge4drWrswn4D93RMrpJoozLiWWo=k-no"
+        ],
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toZlkyTXlVbGhqZWxOU1psVTFORVF3Tkc5d0xWRRAB",
+        "user": {
+            "name": "Yolanda Pascual",
+            "link": "https://www.google.com/maps/contrib/103581452943347979268?hl=en",
+            "contributor_id": "103581452943347979268",
+            "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKfDF2XFtKx207iPA4ll6iOAmpUsmckAc3HVeLRfwcLPLBTmQCr=s120-c-rp-mo-ba4-br100",
+            "local_guide": true,
+            "reviews": 101,
+            "photos": 40
+        },
+        "snippet": "Mal señalizado pero hemos conseguido llegar. Aparcamiento antes de cruzar el puente.",
+        "extracted_snippet": {
+            "original": "Mal señalizado pero hemos conseguido llegar. Aparcamiento antes de cruzar el puente.",
+            "translated": "Poorly signposted, but we managed to get there. Parking before crossing the bridge."
+        },
+        "details": {
+            "visited_on": "Weekday"
+        },
+        "likes": 0
     }
 }

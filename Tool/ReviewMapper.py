@@ -9,6 +9,6 @@ class ReviewMapper:
         return GoogleReview(
         id=json_review['review_id'],
         text=json_review['snippet'] if 'snippet' in json_review else "",
-        date=datetime.strptime(json_review['iso_date'], "%Y-%m-%dT%H:%M:%SZ"),
+        date=datetime.strptime(json_review['iso_date_of_last_edit'], "%Y-%m-%dT%H:%M:%SZ"),
         rating=json_review['rating']
     )
