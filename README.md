@@ -48,7 +48,7 @@ The application follows four main stages:
 
 ![gui](img/gui.png)
 
-##Contributors
+## Contributors
 
 The development of this repository involved:
 
