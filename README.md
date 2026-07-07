@@ -52,13 +52,13 @@ The application follows four main stages:
 
 The development of this repository involved:
 
-Miguel Ángel Maté-González
-Jesús Rodríguez-Hernández
-Daniel Herranz Herranz
-Fernando Peral Fernández
-Silvia Díaz-de la Fuente
-Cristina Sáez Blázquez
-Diego González-Aguilera
+Miguel Ángel Maté-González  
+Jesús Rodríguez-Hernández  
+Daniel Herranz Herranz  
+Fernando Peral Fernández  
+Silvia Díaz-de la Fuente  
+Cristina Sáez Blázquez  
+Diego González-Aguilera  
 
 ## Funding
 
